@@ -38,8 +38,9 @@ CHECK_LOC=True
 CHECK_IRAN=False
 CHECK_HOST_IRANIAN_NODES = [
     "ir1.node.check-host.net",  # Pars Online (پارس آنلاین)
+    "ir2.node.check-host.net",  # TCI / Webdade (مخابرات)
     "ir3.node.check-host.net",  # Derak Cloud (قبلاً رایتل بود - شیراز)
-    "ir4.node.check-host.net",  # GreenWeb (گرین‌وب - مشهد) #"ir2.node.check-host.net",  # TCI / Webdade (مخابرات)
+    "ir4.node.check-host.net",  # GreenWeb (گرین‌وب - مشهد) #
     "ir5.node.check-host.net",  # Afranet / Web Dadeh (افرانت)
     "ir6.node.check-host.net",  # Hamed Shirvani (معمولاً سمت همراه اول/MCI دیده می‌شود - تبریز)
     "ir7.node.check-host.net",  # Pishgaman / Mahan Cloud (پیشگامان)
@@ -1865,7 +1866,7 @@ def load_config():
             # تمیز کردن و حذف تکراری‌ها قبل از تست
             cleaned_lines = clear_p(lines) 
             # تنظیم تگ اولیه برای همه
-            tagged_lines = set_initial_tag(cleaned_lines, "hamedp71")
+            tagged_lines = set_initial_tag(cleaned_lines, "jnjal | ")
             print(f"Loaded and prepared {len(tagged_lines)} configs from {TEXT_PATH} for testing.")
             return tagged_lines, False # is_dict همیشه False است
     except FileNotFoundError:
@@ -2095,6 +2096,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
