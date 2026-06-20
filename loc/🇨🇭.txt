@@ -4,6 +4,4 @@
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?encryption=none&type=ws&host=107.189.7.176&path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=107.189.7.176#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.230.226:2083?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=4e590fdc&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
