@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&type=tcp&sni=vindobona.org&fp=chrome&flow=xtls-rprx-vision&sid=08&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9

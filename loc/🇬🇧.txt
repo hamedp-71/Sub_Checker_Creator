@@ -2,18 +2,20 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNjkuODQuMTgyLjQ5IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNjkuODQuMTgyLjQ5IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsInRscyI6IiJ9
+vmess://eyJhZGQiOiI2OS44NC4xODIuNDkiLCJhaWQiOjAsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS56dWxhLnVwbGFvZC1tdXNpYy5pci4iLCJpZCI6ImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyIsImFkZCI6InVrNS50YXNrZmxvd2h1Yi5vcmciLCJwb3J0IjoyMDUzLCJpZCI6Ijg5MzcxZGZjLTI2MTgtNDBkNy1hNTU4LTY5M2ZmNGY3ZjFlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoidWs1LnRhc2tmbG93aHViLm9yZyIsInBvcnQiOiIyMDUzIiwiaWQiOiI4OTM3MWRmYy0yNjE4LTQwZDctYTU1OC02OTNmZjRmN2YxZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2NSJ9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyIsImFkZCI6IjUxLjE5NS4yMDMuMjQ3IiwicG9ydCI6MjA1MywiaWQiOiI4OTM3MWRmYy0yNjE4LTQwZDctYTU1OC02OTNmZjRmN2YxZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoidWs1LnRhc2tmbG93aHViLm9yZyIsImZwIjpudWxsfQ
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@82.40.23.19:443?security=reality&type=tcp&sni=sellflow.org&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443?path=/&security=tls&encryption=none&insecure=0&host=4gf45fdg45fd542g2in.kawaii520.icu&fp=chrome&type=ws&allowInsecure=0&sni=4gf45fdg45fd542g2in.kawaii520.icu#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?type=tcp&encryption=none&security=reality&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&fp=chrome&sni=www.yahoo.com&sid=d9029b790f10b2e2&spx=/&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://3571b127-4b3b-4c01-8249-1684daf586b5@149.248.79.235:17301?encryption=none&fp=&pbk=nadshlxG0RqC6om__cf9E4F6qolRmHJLcNtReBTr9xY&security=reality&sid=5d&sni=aws.amazon.com&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

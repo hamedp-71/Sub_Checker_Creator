@@ -3,7 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@91.208.75.251:3478#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://c2305d2a-43ac-4820-9cd8-8408daf4eb0e@ro-1.reshebnik24.ru:9444?path=/ws&security=tls&encryption=none&insecure=0&host=ro-1.reshebnik24.ru&fp=chrome&type=ws&allowInsecure=0&sni=ro-1.reshebnik24.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.97:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
