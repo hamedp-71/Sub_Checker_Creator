@@ -3,14 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=130.94.114.217#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?allowInsecure=0&sni=130.94.114.217#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=130.94.114.217#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&path=/#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bsni=130.94.114.217#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?sni=130.94.114.217&peer=130.94.114.217&security=tls#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6

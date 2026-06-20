@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjIzMjQiLCJwcyI6ImhhbWVkcDcxOjrwn4eq8J+HuCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8

@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
