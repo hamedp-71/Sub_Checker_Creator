@@ -3,4 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://85b62084-d81e-52cd-a016-944f261d34a0@bm.xq-vpn.com:80?mode=auto&path=%2F&security=&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=%2Fws&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?encryption=none&type=xhttp&mode=auto&host=cJ-sPeEdTeSt.EbB.mY&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://FREE@bm.xq-vpn.com:80?encryption=none&type=xhttp&mode=auto&host=SpEeDtEsT.nEt&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
