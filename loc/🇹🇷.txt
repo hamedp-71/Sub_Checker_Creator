@@ -2,12 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sni=www.google.com&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&type=tcp&sni=gateway.icloud.com&fp=firefox&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@198.105.123.142:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sni=www.google.com&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
