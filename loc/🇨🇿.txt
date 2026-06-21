@@ -5,3 +5,4 @@
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=tcp&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=wwwwch.giftin1404.com.&path=/?ed=2082#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
