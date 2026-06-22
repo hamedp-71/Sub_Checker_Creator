@@ -2,11 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.85:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.84:8443?security=tls&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.83:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.82:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.78:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.106:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4

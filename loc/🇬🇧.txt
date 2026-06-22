@@ -2,28 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?type=tcp&headerType=none&security=tls&encryption=none&sni=130.94.78.17&insecure=0#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&sni=130.94.78.17&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?type=tcp&security=tls&headerType=none&sni=130.94.78.17&fp=chrome&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNjkuODQuMTgyLjQ5IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiJ1azUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg5MzcxZGZjLTI2MTgtNDBkNy1hNTU4LTY5M2ZmNGY3ZjFlYiIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNjkuODQuMTgyLjQ5IiwicG9ydCI6IjgwIiwiaWQiOiJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 vmess://eyJhZGQiOiI2OS44NC4xODIuNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIiwidmNuIjoiIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6cifQ
-vless://20000020-3063-1376-f000-f6c850c0a020@109.73.65.116:493?type=tcp&headerType=none&security=reality&encryption=none&sni=louisvuitton.com&fp=firefox&pbk=hoJugHeT_SOHhybvTE5gEEgEqsar9KrDtC5uP5qi5GY&sid=31cf122180c019f7&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1&host=splash.ariyuz.org&sni=splash.ariyuz.org&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&encryption=none&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.218:8443?path=/api/v1&security=tls&encryption=none&insecure=0&host=splash.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=splash.ariyuz.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://20000020-3063-1376-f000-f6c850c0a020@109.73.65.116:493?type=tcp&headerType=none&security=reality&encryption=none&sni=louisvuitton.com&fp=firefox&pbk=hoJugHeT_SOHhybvTE5gEEgEqsar9KrDtC5uP5qi5GY&sid=31cf122180c019f7&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://3571b127-4b3b-4c01-8249-1684daf586b5@149.248.79.235:17301?encryption=none&type=grpc&security=reality&pbk=nadshlxG0RqC6om__cf9E4F6qolRmHJLcNtReBTr9xY&sni=aws.amazon.com&sid=5d#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?encryption=none&type=grpc&serviceName=%2Fdashboard&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=free.ziroxcompany.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&host=splash.ariyuz.org&path=%2Fapi%2Fv1&security=tls&sni=splash.ariyuz.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443?encryption=none&type=ws&host=4gf45fdg45fd542g2in.kawaii520.icu&path=%2F&security=tls&fp=chrome&sni=4gf45fdg45fd542g2in.kawaii520.icu#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
