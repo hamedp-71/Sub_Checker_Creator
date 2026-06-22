@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.53:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
