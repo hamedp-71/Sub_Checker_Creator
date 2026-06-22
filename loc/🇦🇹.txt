@@ -3,6 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+trojan://VGBzLm49%3DM_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://0dd1365f-4765-4502-a20d-1e09516ae8f5@45.146.131.154:8545?encryption=none&security=reality&type=grpc&serviceName=service&mode=multi&fp=chrome&sni=www.microsoft.com&pbk=4IOWxdtudwyVdmZl1Z2CINSbYHgMk94Bet0hVlgkrXo&sid=c4e8a1f29b3d6075#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&security=reality&sid=08&sni=vindobona.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
