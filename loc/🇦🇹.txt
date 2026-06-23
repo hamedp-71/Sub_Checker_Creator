@@ -2,8 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&security=reality&sid=08&sni=vindobona.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443/?type=grpc&encryption=none&flow=&serviceName=your-custom-path&sni=maps.apple.com&security=reality&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amazon.de&fp=chrome&pbk=17riEzmqVZyqgLiJkEITsiJc0NcXDfPq6RzQJmH830c&sid=ef01859eafef126d&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?encryption=none&fp=&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://1dd5f2be-f124-4f35-9239-8abc042829c2@77.110.110.81:14302?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
