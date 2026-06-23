@@ -3,5 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF

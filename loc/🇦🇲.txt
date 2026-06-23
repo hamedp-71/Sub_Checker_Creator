@@ -3,7 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
-vless://b0af1bed-2c43-440c-90bc-4f737fb037ec@biato.sayevpni.store:443?path=/SayeVPNi&security=tls&encryption=none&insecure=0&host=biato.sayevpni.store&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781927583333#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
-vless://b0af1bed-2c43-440c-90bc-4f737fb037ec@biato.sayevpni.store:443?encryption=none&type=ws&host=biato.sayevpni.store&path=%2FSayeVPNi&security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
