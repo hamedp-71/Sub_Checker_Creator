@@ -3,10 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?security=reality&encryption=none&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=190d259bbd40d4c3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?path=/graphql&security=none&encryption=none&host=CAdaba.amki.IR.&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?security=reality&encryption=none&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=190d259bbd40d4c3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
