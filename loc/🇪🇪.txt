@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@ee-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?encryption=none&type=grpc&serviceName=grpc&security=reality&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&sni=www.microsoft.com&sid=7a3f9e2b1c8d4f6a#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
