@@ -2,6 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
