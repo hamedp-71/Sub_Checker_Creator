@@ -4,4 +4,5 @@
 
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=imblo.fastcitylab-byte.info&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&type=ws&host=imblo.fastcitylab-byte.info&path=%2Fsea&security=tls&fp=chrome&sni=imblo.fastcitylab-byte.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
