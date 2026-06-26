@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@194.147.214.197:443?security=reality&encryption=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cd8971da5a669139#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?encryption=none&type=ws&host=play.google.com&path=%2FA2&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
