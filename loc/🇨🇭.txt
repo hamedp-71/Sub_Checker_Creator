@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.47:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

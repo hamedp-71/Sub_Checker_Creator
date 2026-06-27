@@ -2,7 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=185.126.236.190#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&security=reality&sid=08&sni=vindobona.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?encryption=none&type=grpc&serviceName=your-custom-path&security=reality&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sni=maps.apple.com&sid=2da4299da566b7#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://1babf628-b13f-4fe2-8064-985f617425d6@heap.metsima.com:443?encryption=none&type=httpupgrade&host=RVR.steamzy.ir&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=RVR.steamzy.ir#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
