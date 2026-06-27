@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1&host=splash.ariyuz.org&sni=splash.ariyuz.org&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@d.ircybersec.org:1000?encryption=none&type=tcp&security=reality&headerType=none&sni=knox.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

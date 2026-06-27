@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?security=reality&sni=www.samsung.com&fp=firefox&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
