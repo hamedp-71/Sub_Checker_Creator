@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HtyIsImFkZCI6IjUuMTg4LjE5MC4yNTIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
