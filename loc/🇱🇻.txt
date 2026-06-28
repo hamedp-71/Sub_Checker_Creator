@@ -3,13 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&headerType=none&security=none&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?encryption=none&fp=firefox&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&security=reality&sid=61&sni=yahoo.com&spx=%2FsGULnrxkHirfMkb&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?encryption=none&fp=&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&security=reality&sid=3c&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

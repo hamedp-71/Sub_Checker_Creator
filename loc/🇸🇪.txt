@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b165aac9-5b78-4b47-9102-94eb16e2efd4@SmWs.benomiz.ir:16423?security=reality&alpn=http/1.1&encryption=none&pbk=oFMI2SvruzNqYbNUwCJDK5pHebvZRAMOyGNa2lO953M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=789071bf51054742#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
