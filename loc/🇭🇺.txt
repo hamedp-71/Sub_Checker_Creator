@@ -3,9 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://C0ldyhgjg-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.194:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.60:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.8:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.207:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.236:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.27:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA

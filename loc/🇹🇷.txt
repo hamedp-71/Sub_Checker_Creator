@@ -1,9 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443/?type=ws&encryption=none&flow=&host=c.downloadphysics.ir&path=%2F&security=tls&sni=c.downloadphysics.ir&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://e82277d0-9a7f-4217-aac4-b587529d4f95@45.136.5.98:443?security=reality&encryption=none&pbk=Ytg9Ug4dn1gyWsduSUsWREP2OnfLptkOjevFrJoy7nA&headerType=none&fp=chrome&spx=/&type=tcp&sni=icloud.com&sid=0d45#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?encryption=none&type=ws&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&path=%2F&security=tls&fp=chrome&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
