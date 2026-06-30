@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://253ded96-665e-420d-86fb-16d4b6701155@stockholm.wizard1.info:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=yahoo.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://253ded96-665e-420d-86fb-16d4b6701155@stockholm.wizard1.info:2045?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=yahoo.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?encryption=none&type=ws&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&path=%2F&security=tls&fp=chrome&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
