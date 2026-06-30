@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=/A2&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&type=ws&host=play.google.com&path=%2FA2&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
