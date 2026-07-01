@@ -2,12 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&headerType=none&security=none&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://4c48bbb3-8b59-4d58-ac43-c82680cb5cf5@104.16.4.103:80?encryption=none&type=ws&host=cdn-namahdd.serendpiti.ir&path=%2Fmmdoc&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://4c48bbb3-8b59-4d58-ac43-c82680cb5cf5@104.16.4.103:80?security=none&type=ws&headerType=&path=/mmdoc&host=cdn-namahdd.serendpiti.ir#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

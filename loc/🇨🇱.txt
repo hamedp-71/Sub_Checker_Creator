@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://27f914c5-bdcc-441a-9459-368daf552606@media.hihidress.com:443?security=reality&encryption=none&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mi.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1

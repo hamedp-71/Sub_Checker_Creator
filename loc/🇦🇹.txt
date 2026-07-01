@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&security=reality&sid=08&sni=vindobona.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
