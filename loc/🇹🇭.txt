@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.87.65.216:443?encryption=none&security=reality&sni=api.digital-help-prd.autodesk.com&fp=random&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
