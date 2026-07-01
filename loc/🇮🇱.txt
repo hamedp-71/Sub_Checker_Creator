@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://27f914c5-bdcc-441a-9459-368daf552606@media.hihidress.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&security=reality&sid=6ba85179e30d4fc2&sni=www.mi.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&security=reality&sid=0c1553316a645758&sni=store.steampowered.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
