@@ -2,6 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.50:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&type=ws&host=play.google.com&path=%2FA2&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

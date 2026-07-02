@@ -5,4 +5,3 @@
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.58&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
