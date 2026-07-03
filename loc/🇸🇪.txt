@@ -2,11 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@direct.ircybersec.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@direct.ircybersec.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@104.18.134.56:443?encryption=none&security=tls&sni=cp.kermanshahi.org&type=ws&host=cp.kermanshahi.org&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@direct.ircybersec.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?encryption=none&type=ws&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&path=%2F&security=tls&fp=chrome&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
