@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&type=tcp&sni=www.alibaba.com&fp=chrome&flow=xtls-rprx-vision&sid=c906f73d3ba8211f&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?encryption=none&fp=&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&security=reality&sid=e1bdc95c1554c8eb&sni=www.samsung.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.alibaba.com&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4

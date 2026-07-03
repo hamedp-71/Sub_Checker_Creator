@@ -2,15 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@mag3.portal-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=mag3.portal-guard.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@mag3.portal-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=mag3.portal-guard.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@31.76.104.158:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mag3.portal-guard.com&allowInsecure=true&fp=randomized&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&packetEncoding=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@mag3.portal-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mag3.portal-guard.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&sid=33f2&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
