@@ -4,3 +4,4 @@
 
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443/?type=tcp&security=tls#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
