@@ -4,3 +4,4 @@
 
 trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&sni=38.60.252.118#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?allowInsecure=0&sni=38.60.252.118#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
+trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3

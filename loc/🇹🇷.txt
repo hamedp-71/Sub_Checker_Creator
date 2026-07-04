@@ -2,8 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://dfdse334053vuohm@auto.mhjstudio.ir:443?type=ws&path=%2F&security=tls&alpn=http%2F1.1&sni=alternative.mhjstudio.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ODU1ZjFmMC1hODAwLTQwZDQtOGIzOC1jN2QzZWI3OTMwMmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HtyIsImFkZCI6IjUuMTg4LjE5MC4yNTIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
 vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiaWQiOiI5ODU1ZjFmMC1hODAwLTQwZDQtOGIzOC1jN2QzZWI3OTMwMmQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HufCfh7cifQ
-vless://fb9b1858-1984-4f6f-96db-7051c888b5f1@ts.dark-1881.sbs:443?encryption=none&type=ws&host=ts.dark-1881.sbs&path=%2Faparat&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ts.dark-1881.sbs#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443/?type=ws&encryption=none&flow=&host=c.downloadphysics.ir&path=%2F&security=tls&sni=c.downloadphysics.ir&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://5aa16c6d-357b-459a-848d-53e4cddcffc3@tr-ist-8.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr-ist-8.blook.network&fp=firefox&pbk=ZjjejWQ2z6v8yinwngZMjgh2rozcTfBgXC930RUDE1I&sid=7ccfb185&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://5aa16c6d-357b-459a-848d-53e4cddcffc3@31.210.53.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr-ist-8.blook.network&fp=firefox&pbk=ZjjejWQ2z6v8yinwngZMjgh2rozcTfBgXC930RUDE1I&sid=7ccfb185&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
