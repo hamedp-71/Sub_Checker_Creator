@@ -8,4 +8,3 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@72.11.146.119:9443?encryption=none&
 vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@23.173.104.222:2053?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/fp%3Dchrome&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@23.173.104.222:2053?path=%2Ffp&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
