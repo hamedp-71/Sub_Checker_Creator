@@ -4,7 +4,5 @@
 
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?security=reality&encryption=none&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=7b7c7376cba460cf#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&sid=abcd1234&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
