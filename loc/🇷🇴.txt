@@ -3,6 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?encryption=none&security=reality&sni=www.samsung.com&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&sni=www.vk.ru&sid=99ea&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?encryption=none&security=reality&sni=www.vk.ru&fp=chrome&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&sid=99ea&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&sni=www.vk.ru&sid=99ea&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
