@@ -4,3 +4,4 @@
 
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=%2F&security=&encryption=none&host=chek.carefreemob2.com.&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&security=reality&sid=8de54d32a8d3fdf9&sni=site.rumedia-cdn.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=none&type=httpupgrade&host=chek.carefreemob2.com.&security=none&path=/#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
