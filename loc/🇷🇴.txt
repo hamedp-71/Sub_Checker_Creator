@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&sni=www.vk.ru&sid=99ea&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?encryption=none&security=reality&sni=www.samsung.com&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
