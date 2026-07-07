@@ -4,5 +4,3 @@
 
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=amd.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.253.18.132:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9

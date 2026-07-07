@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxa1JOTmhzSXJ6VTZxbmtM@168.63.66.81:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
