@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@152.53.46.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=firefox&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
