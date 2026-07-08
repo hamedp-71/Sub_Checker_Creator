@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0&sni=38.60.168.129#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI0Ny4yNTAuNDUuMjM0IiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOiI0MzA2MyIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+IiwiYWRkIjoiNDcuMjUwLjE0OS41MSIsInBvcnQiOiI1MDAxOCIsImlkIjoiOTY2NTI4MGMtYTNkMS00YWFiLWVmOWYtYTNhNDk3MzM3ZDkxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii85NjY1MjgwYyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ4In0
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6IjEwMDAwIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwcyI6ImhhbWVkcDcxOjrwn4ey8J+HviJ9
-vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
+vless://SoonTeam@208.84.103.60:443?encryption=none&type=ws&host=anten.ir&path=/telegram@SoonTeam&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
