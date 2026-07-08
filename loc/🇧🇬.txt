@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
-vless://4262c320-5080-4e93-904a-cb77d7fa1d70@dex.mpzdev.ir:16656?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=JU2RSU2sL-MAlzjOqLOYr-cDpg5ystXrF9Pdk2GWPhM&sid=cfad2da14133&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
