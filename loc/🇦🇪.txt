@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&encryption=none&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.luluhypermarket.com&sid=0c1553316a645758#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.luluhypermarket.com&allowInsecure=true&fp=chrome&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&sid=0c1553316a645758&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&encryption=none&type=ws&host=uae.unixzone.us&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
