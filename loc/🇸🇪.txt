@@ -4,5 +4,3 @@
 
 vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&security=reality&sid=abcd1234&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&sid=abcd1234&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.114.12.143:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
