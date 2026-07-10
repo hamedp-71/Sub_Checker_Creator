@@ -5,8 +5,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eq8J+HuCIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
-vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=%2Fjdiedjiedjijd&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?encryption=none&type=ws&path=/jdiedjiedjijd&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?encryption=none&type=ws&path=%2Fjdiedjiedjijd&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?path=/jdiedjiedjijd&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@spain.unixzone.us:36326?encryption=none&path=%2Fjdiedjiedjijd&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
