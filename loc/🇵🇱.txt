@@ -3,6 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
@@ -14,24 +16,26 @@ trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&
 trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@202.37.33.80:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@162.159.38.119:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.6:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@81.255.155.10:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=qq&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.94.214:443?security=reality&encryption=none&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=1297b6f0f6dc88d0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.165:443?flow=xtls-rprx-vision&fp=chrome&pbk=6yDF1t-fOKStJLYOZArGjW2MqGsglkpaGIC_fuj79S0&security=reality&sid=3cfee58cb8a3afb3&sni=www.twitch.tv&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.151:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=IDX70F6aZLh_PruvqfOVRp3bzxzSkCer9ePN-0ZgWAc&sid=e08909dd3362afd1&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?security=reality&encryption=none&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=70e24f75fa26f6c7#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.94.215:443?flow=xtls-rprx-vision&fp=chrome&pbk=8eDDm9CwDRc-WFaIjHxHTyO0y7WuWLghrN8w8B1w_Vo&security=reality&sid=e3a7014f75f71139&sni=www.twitch.tv&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&type=grpc&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?security=reality&encryption=none&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=70e24f75fa26f6c7#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?alpn=http/1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=/&security=tls&sni=ww1.aniuge.qzz.io&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://ef3e206d-3cbc-4254-8374-df04fe35a762@pl.karzino-connected.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&security=reality&sid=30e530274c0c72cc&sni=pl.karzino-connected.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&security=reality&sid=70e24f75fa26f6c7&sni=www.twitch.tv&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-ua-hn.ray-balance.space:4443?encryption=none&type=grpc&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://1e1f4395-fd7c-4408-8268-e663a24c2eaa@panel.karmatel.ir:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=dl4.karmatel.ir#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=firefox&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
