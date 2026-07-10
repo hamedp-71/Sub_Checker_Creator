@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e6a037ff-3908-4bf9-b3e7-b1138da601f9@83.228.231.188:22000?encryption=none&fp=&pbk=NbZ4uhJZ6zpvRLXODNcVDk9UgcKNahpN1h74CsV04Fs&security=reality&sid=14&sni=www.yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1005?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@sw-5.hysteria.ltd:9443?&security=tls&fp=qq&sni=sw-5.hysteria.ltd&type=ws&headerType=none&host=sw-5.hysteria.ltd&path=%2Fws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@sw-5.hysteria.ltd:9443?encryption=none&type=ws&host=sw-5.hysteria.ltd&path=%2Fws&security=tls&fp=qq&sni=sw-5.hysteria.ltd#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
