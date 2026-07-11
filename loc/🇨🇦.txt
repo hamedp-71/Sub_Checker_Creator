@@ -4,7 +4,7 @@
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJ2IjoiMiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwicHMiOiJoYW1lZHA3MTo68J+HqPCfh6YifQ
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@cand.appcodes.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@ca.codinos.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://66265232-e176-4c29-b133-8260c9dcb0a3@ov-canada1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://66265232-e176-4c29-b133-8260c9dcb0a3@148.113.196.75:8443?encryption=none&security=tls&sni=ov-canada1.09vpn.com&fp=chrome&type=ws&path=/vless/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6

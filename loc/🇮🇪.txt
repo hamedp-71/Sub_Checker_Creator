@@ -4,6 +4,6 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ek42V0R3NVdiYWQ3WlZi@20.223.152.73:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://XG59623478@singular-lark.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
