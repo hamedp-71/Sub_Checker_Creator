@@ -2,14 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=concise-buck.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PI36027154@tight-possum.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=concise-buck.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
