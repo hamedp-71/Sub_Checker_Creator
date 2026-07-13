@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://2bb2d011-71a7-4d81-bfe2-a077d1a1d823@WwW.SpeedTest.Net:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=&path=/v2&security=tls&sni=powerfullp1.magical-bridge.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
