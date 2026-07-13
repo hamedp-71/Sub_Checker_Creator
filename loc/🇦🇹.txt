@@ -3,7 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@152.53.46.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=firefox&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.73:5443?mode=stream-one&path=/&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=chrome&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=chrome&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?mode=stream-one&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=chrome&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
