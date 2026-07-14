@@ -4,11 +4,28 @@
 
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@diverse-thrush.rooster465.autos:443?security=tls&sni=diverse-thrush.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@devoted-zebra.rooster465.autos:443?security=tls&sni=devoted-zebra.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://3632736327@kr04021338.tmdsb.org:1864?allowInsecure=1&sni=kr04021338.tmdsb.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrcjAyLmEwYS54eXoiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzMifQ
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.199.106:443?security=tls&type=ws&path=%2F&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://c73dde3c-bc5c-4498-a1c1-c84f80e9f515@20.196.153.157:2233?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.253.111:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
@@ -20,6 +37,7 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.56.180.103:443?encryption=none&
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.199.106:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.110.75.145:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@3.35.238.2:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@144.24.73.232:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@168.107.0.116:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.254.197:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
@@ -28,3 +46,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.180.71.69:443?encryption=none&s
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@152.67.210.234:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@140.238.17.157:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.110.70.64:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://c73dde3c-bc5c-4498-a1c1-c84f80e9f515@20.196.153.157:2233?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
