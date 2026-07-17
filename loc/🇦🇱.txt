@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
