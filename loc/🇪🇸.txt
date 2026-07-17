@@ -3,5 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://59da5351-5151-417d-b2f7-6923848b717e@spain2.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spain2.helper-internet.com&sid=ff776ff77be48b88#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@sp.foot8all.ir:56625?encryption=none&type=grpc&security=reality&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sni=icloud.com&sid=d5e4b75249e38cbb#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
