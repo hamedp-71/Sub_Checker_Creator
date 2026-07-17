@@ -3,4 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
+vless://59da5351-5151-417d-b2f7-6923848b717e@alban2.helper-internet.com:443?security=reality&type=tcp&sni=alban2.helper-internet.com&fp=chrome&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
