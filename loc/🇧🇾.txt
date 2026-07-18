@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?security=reality&encryption=none&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
+vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?security=reality&encryption=none&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
