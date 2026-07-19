@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?encryption=none&security=reality&type=grpc&sni=www.tradingview.com&fp=safari&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&sid=ccda00cc&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=statusdetector404.ru&fp=chrome&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=statusdetector404.ru&fp=firefox&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
