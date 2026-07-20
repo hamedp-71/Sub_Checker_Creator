@@ -2,9 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8c70a7cb-4a3e-45b8-b15a-52673b4a03d7@144.31.240.140:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=r93g3bpvAfKqF6GXG6nu0gz670iYPyn1Ve7e-snzqks&sni=estoxy.com&sid=681333da5a32ba5d&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?encryption=none&host=2.fognet.ru&path=%2Ffog&security=tls&sni=2.fognet.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?encryption=none&type=ws&host=2.fognet.ru&path=%2Ffog&security=tls&sni=2.fognet.ru#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@141.227.160.73:6300?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@se.vrsvpn.com:443?security=reality&encryption=none&pbk=HUIUjR11K2-23-4Y-i51g9cun8etjfgaWW-h8AsEtEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba24f179ad1f26#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?encryption=none&host=2.fognet.ru&path=/fog&security=tls&sni=2.fognet.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=st.onnstreaming.ru&fp=chrome&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&sid=e8e019c424ccb765&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://8c70a7cb-4a3e-45b8-b15a-52673b4a03d7@144.31.240.140:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=r93g3bpvAfKqF6GXG6nu0gz670iYPyn1Ve7e-snzqks&sni=estoxy.com&sid=681333da5a32ba5d&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@141.227.160.73:6300?fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&sni=play.google.com&type=tcp&headerType=none&security=reality#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&allowinsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
