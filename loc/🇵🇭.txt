@@ -4,4 +4,4 @@
 
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=firefox#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=qq#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4etIiwiYWRkIjoiNjEuMjQ1LjExLjYwIiwicG9ydCI6IjgwIiwiaWQiOiJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUyIn0
+vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJpZCI6ImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IjYxLjI0NS4xMS42MCIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4etIn0
