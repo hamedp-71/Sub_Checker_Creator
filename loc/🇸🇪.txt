@@ -4,5 +4,6 @@
 
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://8c70a7cb-4a3e-45b8-b15a-52673b4a03d7@144.31.240.140:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=r93g3bpvAfKqF6GXG6nu0gz670iYPyn1Ve7e-snzqks&sni=estoxy.com&sid=681333da5a32ba5d&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sw01.auragg.org:443?encryption=none&type=grpc&serviceName=auragrpc&security=reality&fp=chrome&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&sni=cloudflare.com&sid=a3d8f1e9b2c7d4e6#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&allowinsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://8c70a7cb-4a3e-45b8-b15a-52673b4a03d7@144.31.240.140:443?security=reality&encryption=none&pbk=r93g3bpvAfKqF6GXG6nu0gz670iYPyn1Ve7e-snzqks&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=estoxy.com&sid=681333da5a32ba5d#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
