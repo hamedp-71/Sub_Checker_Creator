@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
