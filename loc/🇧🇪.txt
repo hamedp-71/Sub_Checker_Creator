@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?encryption=none&type=ws&host=pphfree3.mvpnpvpn.de5.net&path=%2Fmvpnpph2026&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.251.2:1080#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
