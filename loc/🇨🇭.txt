@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=ch10.tunnely.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch03.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=ch03.tunnely.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sw2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
