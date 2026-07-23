@@ -5,3 +5,4 @@
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?security=&allowInsecure=1&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
