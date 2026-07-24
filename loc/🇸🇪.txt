@@ -2,12 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&sid=58c5b3ee013bdc8f&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://62b45484-278c-445f-b5a9-a068b5876c54@7b1f4002324dbe8e.mbcloudy.ir:3389?security=reality&encryption=none&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d55a6f43c645adb4#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node1.mxvpn.dev:443?security=reality&type=tcp&sni=node1.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&type=tcp&security=reality&headerType=none&sni=knox.cdn-apple.com&fp=ios&insecure=1&allowInsecure=1&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&type=tcp&security=reality&headerType=none&sni=knox.cdn-apple.com&fp=ios&insecure=1&allowInsecure=1&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?security=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@swg.raketa-balance.com:443?security=reality&encryption=none&pbk=Q8SjY3b6H8hnsg2TVIgNpnoQ2zjOacm727EJkEIPSkg&fp=chrome&type=grpc&serviceName=grpc-service&sni=swg.raketa-balance.com&sid=6c6082a2223c1d03#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
