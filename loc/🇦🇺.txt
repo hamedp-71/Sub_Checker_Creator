@@ -7,9 +7,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19
 trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PD07395842@true-pony.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@82.117.225.216:443?security=tls&sni=concise-buck.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
@@ -39,8 +39,8 @@ trojan://WG39087154@concise-buck.rooster465.autos:443?sni=concise-buck.rooster46
 trojan://PD07395842@true-pony.rooster465.autos:443?path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PD07395842@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@82.117.225.249:443?sni=national-stingray.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://OD90375861@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@82.117.225.216:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://OD90375861@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@87.121.33.27:443?sni=eternal-frog.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PD07395842@87.121.33.171:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@national-stingray.rooster465.autos:443?sni=national-stingray.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
@@ -50,8 +50,8 @@ trojan://WG39087154@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster46
 trojan://IQ68037294@82.117.225.197:443?sni=fluent-gar.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://WG39087154@fluent-gar.rooster465.autos:443?sni=fluent-gar.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PD07395842@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://IQ68037294@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://IQ68037294@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@chief-antelope.rooster465.autos:443?sni=chief-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PD07395842@fluent-gar.rooster465.autos:443?sni=fluent-gar.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IQ68037294@fleet-hawk.rooster465.autos:443?sni=fleet-hawk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
