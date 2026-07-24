@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?security=reality&type=tcp&sni=abuse.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.14:443?flow=xtls-rprx-vision&security=reality&sni=abuse.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&host=abuse.sellflow.org&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.4:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?type=tcp&headerType=none&security=reality&encryption=none&sni=sw2.cyphervpn.pro&fp=chrome&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
