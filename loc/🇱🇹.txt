@@ -4,4 +4,3 @@
 
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&fp=firefox#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://8bba3194-4856-46d1-8319-075817d87eb1@2.59.162.56:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox&alpn=http%2F1.1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
