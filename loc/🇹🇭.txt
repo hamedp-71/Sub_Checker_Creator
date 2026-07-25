@@ -4,7 +4,8 @@
 
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?&type=ws&headerType=none&host=duatoup3wk8q2.cloudfront.net&path=/GDkX4xpB/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?security=none&type=ws&path=%2FGDkX4xpB%2F&host=duatoup3wk8q2.cloudfront.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.45.6:8080?encryption=none&type=ws&host=pphfree3.mvpnpvpn.de5.net&path=%2Fmvpnpph2026&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?encryption=none&type=ws&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?security=none&type=ws&path=%2FGDkX4xpB%2F&host=duatoup3wk8q2.cloudfront.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
