@@ -2,25 +2,28 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206YTE3MmNmMGQtYWU4OS00MmYzLTg1MDUtMGM1MWRhZTI5M2Ex@8.210.171.48:443#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 ss://YWVzLTI1Ni1nY206YTE3MmNmMGQtYWU4OS00MmYzLTg1MDUtMGM1MWRhZTI5M2ExQDguMjEwLjE3MS40ODo0NDM=#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+ss://YWVzLTI1Ni1nY206YTE3MmNmMGQtYWU4OS00MmYzLTg1MDUtMGM1MWRhZTI5M2Ex@8.210.171.48:443#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://IQ68037294@desired-tahr.rooster465.autos:443?security=tls&sni=desired-tahr.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://CF68213490@well-marmot.rooster465.autos:443?allowInsecure=0&sni=well-marmot.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://JA96378052@91.199.84.185:443?allowInsecure=1&sni=WangCai.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&sni=electric-sturgeon.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://NQ26071394@wealthy-loon.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://ON38567014@genuine-grackle.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://XG59623478@194.99.79.214:443?sni=growing-oyster.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwicG9ydCI6IjM2NzAzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwicG9ydCI6IjQ0ODY3Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjM2NzAzLCJwcyI6ImhhbWVkcDcxOjrwn4et8J+HsCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&encryption=none&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=47de54e71fee3451#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@219.76.13.167:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@219.76.13.177:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkcDcxOjrwn4et8J+HsCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwiYWRkIjoiNDcuNzYuMTI3Ljg4IiwicG9ydCI6IjU1NjYiLCJpZCI6IjVkNzQ2ZjFlLTcwMjgtNDU1Zi1iYjAwLTE4MDYyNDlhNTk0MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLMiJ9
+vmess://eyJhZGQiOiI4NS4xMTMuNzEuODUiLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiYmE1OGNhMGMtMDQxMS00NDRlLTgwZjctZTM2MWNlNDkwMTJkIiwibmV0Ijoid3MiLCJwYXRoIjoiYmE1OGNhMGMtMDQxMS00NDRlLTgwZjctZTM2MWNlNDkwMTJkLXZtIiwicG9ydCI6IjIwODYiLCJwcyI6ImhhbWVkcDcxOjrwn4et8J+HsCIsInNlY3VyaXR5IjoiYXV0byIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.156:2053?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.60.38.113:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@103.74.192.228:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
