@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&type=tcp&sni=deepl.com&sid=a8ae#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=telegram-Leviko-v2ray&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=a8ae#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
