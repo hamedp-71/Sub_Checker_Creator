@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-1.concept7.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&security=reality&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=eb1e33e8a81b#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-1.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=eb1e33e8a81b&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=e29c9c180c62&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://8bba3194-4856-46d1-8319-075817d87eb1@2.59.162.56:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=chrome&alpn=http/1.1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
