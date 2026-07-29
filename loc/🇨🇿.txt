@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://884d811f-577b-421e-aabb-608660b0ecfa@5.189.223.90:9891?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF

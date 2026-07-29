@@ -2,15 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@184.75.221.134:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://103127ff-c382-4f68-a74c-ebb02fa881e5@cdnnnn.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.206.114:8443?encryption=none&type=ws&host=ad-013.fluxmxd18.info&path=%2F&security=tls&fp=chrome&sni=ad-013.fluxmxd18.info#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.pixel9xdmq.info:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-013.pixel9xdmq.info&type=ws&allowInsecure=0&sni=ad-013.pixel9xdmq.info#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.185.125:8443?encryption=none&type=ws&host=ad-013.zen2bswa.info&path=%2F&security=tls&fp=chrome&sni=ad-013.zen2bswa.info#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
