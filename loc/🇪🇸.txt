@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@113.30.149.20:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?security=tls&type=grpc&mode=gun&serviceName=grpc&alpn=h2&sni=fat-sp.arpozan.cloud&fp=chrome#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?encryption=none&security=reality&sni=download.nvidia.com&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&path=/&mode=auto#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
