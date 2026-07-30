@@ -2,11 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1081#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:8443?type=grpc&security=reality&serviceName=your-custom-path&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://aa91b870-8658-4dcb-a53a-423df017e35b@ru.rush-server.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=findmypackets.com&fp=chrome&insecure=1&allowInsecure=1&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://fe444095-ab4b-45b5-8f25-2c2576fb1968@ru.rush-server.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=findmypackets.com&fp=firefox&insecure=1&allowInsecure=1&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

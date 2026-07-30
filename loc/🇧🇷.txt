@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&fp=chrome&security=reality&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
