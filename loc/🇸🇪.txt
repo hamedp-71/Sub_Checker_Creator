@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.117.88.9:1080#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&sni=cdn.steamstatic.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node.mxvpn.dev&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe06.myxasecure.space:443?flow=xtls-rprx-vision&security=reality&sni=swe06.myxasecure.space&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&type=tcp&headerType=none&host=swe06.myxasecure.space&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
