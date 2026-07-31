@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@st01.auragg.org:25311?encryption=none&type=grpc&serviceName=auragrpc&security=reality&fp=qq&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&sni=cloudflare.com&sid=e7c3f9a2b6d4f8e1#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

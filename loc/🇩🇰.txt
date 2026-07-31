@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?encryption=none&type=ws&host=oxnetirpx.kdns.fr&path=%2Fws%2Foxnetir-vl-ws&security=tls&alpn=http%2F1.1&fp=chrome&sni=oxnetirpx.kdns.fr#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
+vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?path=/ws/oxnetir-vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=oxnetirpx.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=oxnetirpx.kdns.fr#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
