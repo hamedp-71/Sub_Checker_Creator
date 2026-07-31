@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://aea85a22-6404-4d1f-becd-17bc7dc14b8f@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=uf8sbHK411DeW1Wo5Yt-VmR_FeirV3HmVFeaO2T44j0&sid=96831d397b50de01&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
