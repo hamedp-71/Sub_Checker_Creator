@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+vless://33d5ecd8-b530-4040-9c40-98b6805a3992@love.ns.cloudflare.com:443?path=%2Ffiles104&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=files104.noonpanir.info&fp=chrome&type=ws&allowInsecure=0&sni=files104.noonpanir.info#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7

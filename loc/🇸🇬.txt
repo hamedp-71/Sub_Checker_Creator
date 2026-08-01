@@ -3,16 +3,11 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgM0NGRTY2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxODAwMCwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbH0
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&type=ws&host=speed.dulacloud.store&path=%2Fdula&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?encryption=none&type=ws&host=speed.dulacloud.store&path=%2Fdula&security=tls&fp=chrome&sni=speed.dulacloud.store#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?security=none&type=ws&path=/dula&host=speed.dulacloud.store&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?encryption=none&security=none&type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
+vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?&type=ws&headerType=none&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096?encryption=none&type=ws&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&fp=chrome&sni=primelinelk.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c779f96e-7874-4e97-8f6d-154f5eb9a8f6@172.104.171.137:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cisco.com&allowInsecure=1&security=reality&pbk=6EGLBzFEY6G1sy314QU3uONCkd69FIBDLggeGnbvTk8&sid=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?encryption=none&security=none&type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?encryption=none&type=ws&host=speed.dulacloud.store&path=/dula&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&type=ws&host=speed.dulacloud.store&path=/dula&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?encryption=none&type=ws&host=speed.dulacloud.store&path=/dula&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
