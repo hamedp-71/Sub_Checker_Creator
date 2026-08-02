@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://767a17d0-0579-4d98-ae13-413198f44752@37.221.208.37:443?security=reality&type=tcp&sni=hu0001.kubservice.icu&fp=qq&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
