@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://7153fb3d-f357-42ac-b6db-ece1732f7f01@multi.fresedvpn.site:11443?&type=ws&headerType=none&host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://a03df445-0666-4d61-acde-9705009e409c@eston3.o4ka-internet.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eston3.o4ka-internet.com&fp=random&security=reality&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
