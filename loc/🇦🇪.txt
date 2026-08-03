@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://e6240cbb-e913-4d72-87ef-9f5daa5f73b3@sa-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=377d#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&sni=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&type=ws&host=uae.unixzone.us&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
