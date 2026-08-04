@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv23.yunus.guru&fp=firefox&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk&sid=afeed89ae23b36ed&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@176.123.2.210:443?security=reality&type=tcp&sni=rezerv23.yunus.guru&fp=firefox&flow=xtls-rprx-vision&sid=afeed89ae23b36ed&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
