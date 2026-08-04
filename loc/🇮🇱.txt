@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=res.cdn.office.net&fp=firefox&security=reality&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sid=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=res.cdn.office.net&fp=firefox&security=reality&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sid=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?encryption=none&fp=chrome&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&serviceName=TunService&sni=res.cdn.office.net&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:993?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&sni=res.cdn.office.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
