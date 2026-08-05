@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKbE9vZ1dkYnBuZklXaUoxS3l2ek13@creativeboxlv.zanity.net:5228#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@lt.tunnelx.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=N-ELdH_KBkeqUT4I7PknCV9hFvlSFjN-52fDLwIzbRs&security=reality&sid=4e9b0c2d1a3f5768&sni=lt.tunnelx.space&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=anyfile2file.com&fp=firefox&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=anyfile2file.com&fp=firefox&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=anyfile2file.com&fp=qq&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=anyfile2file.com&fp=firefox&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?path=/mvpnpph2026&security=&encryption=none&host=pphfree3.mvpnpvpn.de5.net&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.45.6:8080?encryption=none&type=ws&host=pphfree3.mvpnpvpn.de5.net&path=%2Fmvpnpph2026&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@157.85.105.179:80?encryption=none&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10032?security=reality&type=tcp&sni=www.hp.com&fp=firefox&flow=xtls-rprx-vision&sid=f9275dbb5a&pbk=yXxDl06l9pXXT4_1kqpdgOyfAhORcsfPgLTxHu50zQM#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?path=%2Fmvpnpph2026&security=&encryption=none&host=pphfree3.mvpnpvpn.de5.net&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
