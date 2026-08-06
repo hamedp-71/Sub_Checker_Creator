@@ -2,9 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?security=reality&encryption=none&sni=knox.cdn-apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443?security=reality&encryption=none&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.onnstreaming.ru&sid=e8e019c424ccb765#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://843b7f51-16cc-42ca-a047-8d32879ff1e5@srv-5728.atlanta-games.com:443?encryption=none&type=grpc&serviceName=vlgrpc&security=tls&sni=srv-5728.atlanta-games.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

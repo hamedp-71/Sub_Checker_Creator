@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&fp=firefox&security=reality&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?encryption=none&security=reality&type=grpc&sni=www.tradingview.com&fp=chrome&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&sid=ccda00cc&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&type=tcp&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&type=tcp&packetEncoding=none&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
