@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@91.107.221.214:442?encryption=none&security=tls&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&type=ws&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&path=/show/series#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8

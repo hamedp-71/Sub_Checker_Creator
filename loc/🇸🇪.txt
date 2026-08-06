@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://843b7f51-16cc-42ca-a047-8d32879ff1e5@srv-5728.atlanta-games.com:443?encryption=none&type=grpc&serviceName=vlgrpc&security=tls&sni=srv-5728.atlanta-games.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@85.137.170.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=smm.tunnelpoint.space#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
