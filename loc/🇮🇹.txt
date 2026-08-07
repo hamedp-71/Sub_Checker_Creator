@@ -2,14 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.75:10901#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@it2.levikogjgfdd.ir:10901#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://dcd08975-739e-44c7-9022-7c7fcb87e74b@116.204.164.30:7443?encryption=none&security=tls&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&type=ws&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&path=/@Marisa_kristi#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?encryption=none&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=/@Marisa_kristi#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://33509502-dd58-46bf-b574-985ca9a53964@116.204.164.60:7443?encryption=none&security=tls&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&type=ws&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&path=/@Marisa_kristi#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://0baed386-770e-4e17-a6ca-24349e60903f@116.204.164.17:7443?encryption=none&security=tls&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&type=ws&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&path=/@Marisa_kristi#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&type=ws&host=ov-italy1.09vpn.com&path=/vless/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3Fbia_telegram%40marambashi_marambashi_marambashi_marambashi#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://7f2935fa-3845-466c-9320-c17aed65f454@freev2.cloudflare.182682.xyz:443?&security=tls&fp=random&sni=it-mil.862400.xyz&type=ws&headerType=none&host=it-mil.862400.xyz&path=%2Fannouncement#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
