@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&sni=vod.ensf.top#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&sni=vod.ensf.top#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
