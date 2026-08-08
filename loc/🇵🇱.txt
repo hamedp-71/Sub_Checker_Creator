@@ -2,18 +2,21 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://9500cf8b-020a-4a70-906c-e14bb5375875@31.76.22.141:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sciencedirect.com&fp=qq&security=reality&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=mold.speedload.online&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=/&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?encryption=none&type=ws&host=music1000.melobitmusic1.ir&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=music1000.melobitmusic1.ir#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@pla.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&host=pla.tunnelguard.ru&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=pla.tunnelguard.ru#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?security=tls&type=ws&path=%2F&host=ov186.ochmaybrooooo.online&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&fp=chrome&security=reality&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@nl3.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=uwu.spectrumproxy.shop&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&host=music1000.melobitmusic1.ir&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=music1000.melobitmusic1.ir#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&type=ws&path=%2F&host=music1000.melobitmusic1.ir&alpn=h2%2Chttp%2F1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?security=tls&type=ws&path=%2F&host=music1000.melobitmusic1.ir&packetEncoding=none&alpn=h2%2Chttp%2F1.1&sni=music1000.melobitmusic1.ir&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?security=tls&type=ws&path=%2F&host=music1000.melobitmusic1.ir&alpn=h3%2Ch2%2Chttp%2F1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?security=tls&type=ws&path=%2F&host=music1000.melobitmusic1.ir&alpn=h2%2Chttp%2F1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
