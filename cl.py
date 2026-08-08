@@ -27,7 +27,7 @@ with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
         test_link_=f["core"]["test_url"]
 TEXT_PATH="normal.txt"
-LINK_PATH=[ "https://raw.githubusercontent.com/code3-dev/code3-dev/refs/heads/main/warp-in-vless#Warp-in-VLESS"  "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt" , "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt" , "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt" , "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/tuic.txt" , "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt" , "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ssr.txt" , "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt" , "https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt" ] # [ "" , "" , ... ]
+LINK_PATH=[ "https://raw.githubusercontent.com/mahdijavid380/sub-collector/refs/heads/main/javidsub" ] # [ "" , "" , ... ]
 FIN_PATH="final.txt"
 FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 //profile-update-interval: 1
