@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&type=ws&host=workspace.evan00.dpdns.org&path=%2F&security=tls&fp=chrome&sni=workspace.evan00.dpdns.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B5
