@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=safari&security=reality&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&sid=cd40c992fe4b10c2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?encryption=none&fp=chrome&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&security=reality&sid=ad55857184e91aad&sni=stacks.vk-portal.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.rumedia-cdn.com&fp=safari&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&sid=cd40c992fe4b10c2&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.130.130:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&security=reality&sid=2d127d11297df7de&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=cd40c992fe4b10c2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

@@ -2,11 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@146.103.26.88:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@try.smotri-shop.top:443?security=reality&encryption=none&sni=www.ya.ru&fp=firefox&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&sid=c0573c8280a0c019&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&type=ws&host=play.google.com&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&security=reality&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

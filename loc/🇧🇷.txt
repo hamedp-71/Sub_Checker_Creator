@@ -2,11 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://32b2m2w7hsdd93z7@titandarkness.mooo.com:443?allowInsecure=0&type=grpc&serviceName=/43588/G43plZahWW#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?type=grpc&serviceName=%2F43588%2FG43plZahWW&security=tls&sni=titandarkness.mooo.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?sni=titandarkness.mooo.com&type=grpc&serviceName=%2F43588%2FG43plZahWW&mode=gun&fp=chrome#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?encryption=none&fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?encryption=none&fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@18.198.227.161:443?fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@177.3.208.169:443?encryption=none&type=ws&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&fp=chrome&sni=titandarkness.mooo.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?encryption=none&type=ws&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&fp=chrome&sni=titandarkness.mooo.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7

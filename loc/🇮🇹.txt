@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443/?type=ws&encryption=none&flow=&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOEA2Mi43Ni4yMzQuMTg4OjEwOTAx#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.188:10901#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=chrome&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@ru2.levikogjgfdd.ir:443?path=/api/v2/camera/events/8f4c2d&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azs.benz.ink#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&type=ws&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
