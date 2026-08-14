@@ -2,9 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?encryption=none&fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?encryption=none&fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@18.198.227.161:443?fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@18.198.227.161:443?encryption=none&type=ws&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&fp=chrome&sni=titandarkness.mooo.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?&security=tls&fp=chrome&sni=titandarkness.mooo.com&type=ws&headerType=none&host=titandarkness.mooo.com&path=/21381/0kO2id8FMQ#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+vless://d4b0cf86-3ea7-4e07-990a-9f9779177a74@38.180.220.203:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=firefox&security=reality&pbk=1JDBQToOCBK5E6xFwMN71vcSovRrwud3IrII4bEjOzU&sid=cbb5927ee4#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=qq&security=reality&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&sid=15#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=chrome&security=reality&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&sid=15#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7

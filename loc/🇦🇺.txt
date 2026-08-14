@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
