@@ -2,13 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://6423193f-06ec-4ca6-b8a4-74e21dbb3970@tr2ri.mobleamiri10.ir:1050?security=reality&encryption=none&pbk=W6rwa-_z6GYG3cmVxqVjOOn7LsvpAFllkbATsO-CnxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc6d2d6095e5f634#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440&sni=www.apple.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@45.12.5.171:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@45.12.5.171:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440&sni=www.apple.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&security=reality&sid=a73cf719b624&sni=ru9.aimodelhub.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@user.akbarihelia.ir:443?path=%2Fstream%2FTrexBridge%2Fef859652a80e&security=tls&encryption=none&insecure=0&host=trex-panel-nubj0s.samifakor.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=trex-panel-nubj0s.samifakor.workers.dev#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sni=www.google.com&sid=44&spx=%2F#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

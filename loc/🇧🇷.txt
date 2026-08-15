@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://d4b0cf86-3ea7-4e07-990a-9f9779177a74@38.180.220.203:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=firefox&security=reality&pbk=1JDBQToOCBK5E6xFwMN71vcSovRrwud3IrII4bEjOzU&sid=cbb5927ee4#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=qq&security=reality&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&sid=15#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=chrome&security=reality&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&sid=15#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7

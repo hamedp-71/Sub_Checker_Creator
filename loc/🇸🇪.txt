@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dsech.mostserv.xyz:443?security=reality&type=tcp&sni=dsech.mostserv.xyz&fp=firefox&flow=xtls-rprx-vision&sid=d0ca141e839394a3&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://fd30c61d-82bf-449c-aa9e-565d0ab64b75@2.26.91.98:1443?encryption=none&type=ws&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dltch.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=dltch.mostserv.xyz&fp=firefox&pbk=bIUHw7kqfyS6-6d7yYjzyXSlc4_CrLZqzdf3KBQfly8&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
