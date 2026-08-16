@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://fd30c61d-82bf-449c-aa9e-565d0ab64b75@2.26.91.98:1443?encryption=none&type=ws&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://423b1d79-08c4-0002-9d5e-c541f791b55f@95.85.240.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&security=reality&sid=e91da98020a38be9&sni=russia.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@swed4.o4ka-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&sni=swed4.o4ka-internet.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

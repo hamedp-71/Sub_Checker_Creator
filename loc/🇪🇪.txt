@@ -2,10 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&host=estproxy2.lockdwn.com&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&host=estproxy2.lockdwn.com&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443/?type=ws&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&type=grpc&serviceName=grpc&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&type=grpc&serviceName=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&type=ws&host=estproxy2.lockdwn.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&serviceName=grpc&type=grpc#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://24f8209b-6689-4e7a-b067-f886e04dfc43@est-1.p-esmy.icu:2066?flow=xtls-rprx-vision&fp=chrome&sni=ads.x5.ru&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&encryption=none&headerType=none&security=reality&sid=1b2a3f&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

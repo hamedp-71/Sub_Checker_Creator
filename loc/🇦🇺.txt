@@ -3,9 +3,15 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@wanted-marmoset.rooster465.autos:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=0&sni=humorous-llama.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://AE62539071@humorous-llama.rooster465.autos:443?security=tls&sni=humorous-llama.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://AE62539071@darling-mutt.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@74.113.232.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&security=reality&sid=e53048e82bb20077&sni=asia.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?type=tcp&security=reality&encryption=none&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&sni=www.cloudflare.com&__rand=f763a6d3#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA

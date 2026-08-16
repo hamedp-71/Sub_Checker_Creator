@@ -4,7 +4,10 @@
 
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkBWUE5pbmUxIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BWUE5pbmUxIiwicG9ydCI6IjE4MDAwIiwicHMiOiJoYW1lZHA3MTo68J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJpZCI6ImViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInBvcnQiOiIyODgwOSIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIn0
+vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInBvcnQiOiIyODgwOSIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://339db138-41ff-44e9-a323-46da89fbf1a7@66.70.179.198:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=0KeXfLKnfTgIL7U-hSEn284rsECLiru0s0Rd11XzyzQ&sid=d823e50b944daee4&sni=www.apple.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://339db138-41ff-44e9-a323-46da89fbf1a7@66.70.179.198:2053?security=reality&sni=www.apple.com&fp=firefox&pbk=0KeXfLKnfTgIL7U-hSEn284rsECLiru0s0Rd11XzyzQ&sid=d823e50b944daee4&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&sid=b9f8d3f8&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6

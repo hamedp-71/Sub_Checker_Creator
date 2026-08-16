@@ -3,19 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vmess://eyJhZGQiOiJ3d3cudHJ1ZS50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.24:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.49:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.26:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.162.103.97:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.170.185.102:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.24:443?encryption=none&fp=firefox&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.214.108:443?encryption=none&fp=firefox&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@13.249.8.113:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.162.103.99:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.28:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@13.249.8.3:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@52.84.199.57:443?encryption=none&fp=firefox&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.26:443?encryption=none&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vmess://eyJhZGQiOiJ3d3cudHJ1ZS50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
