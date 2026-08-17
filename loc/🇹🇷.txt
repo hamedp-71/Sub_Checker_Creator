@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?sni=193.124.46.65&peer=193.124.46.65&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://bef7acd0-8b81-431d-bcce-a76c3da658ae@sb1.artinnet.shop:443?security=reality&encryption=none&pbk=xyMx8lBZ6dn2EO6G3Alt_7bQueu_eZgQ4kZEbMFXL3E&headerType=none&fp=chrome&spx=/XzJUSkVgcj0tycU&type=tcp&sni=w.wiki&sid=ce#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
