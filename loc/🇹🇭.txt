@@ -2,12 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4etIiwiYWRkIjoid3d3LnRydWUudGgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9odHVuIiwiaG9zdCI6ImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQiLCJ0bHMiOiIifQ
 vmess://eyJhZGQiOiJ3d3cudHJ1ZS50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443/?type=ws&encryption=none&flow=&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443/?type=ws&encryption=none&flow=&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.154.132.116:443?encryption=none&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?security=tls&type=ws&path=%2F&host=d1yxsk0zprgivr.cloudfront.net&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.112:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?security=none&type=ws&path=%2F&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
