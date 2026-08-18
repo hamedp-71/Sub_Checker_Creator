@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?encryption=none&type=ws&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.246.131.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bg5.eu-cdn539.com&fp=firefox&security=reality&pbk=Zy0CcZpChDo3kB_CTyhe3Q6yv6MVDzxg--kl_xh0nzA&sid=ecafd5d73dd26f72#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
