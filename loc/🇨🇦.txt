@@ -3,10 +3,20 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@ca4.levikogjgfdd.ir:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw==@155.138.136.240:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://fg20mtCFHy@137.184.172.41:1921?allowInsecure=1&sni=sfecv.southbyte.xyz#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://fg20mtCFHy@137.184.172.41:1921?sni=sfecv.southbyte.xyz&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJpZCI6ImViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInBvcnQiOiIyODgwOSIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIn0
-vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&sid=b9f8d3f8&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://f9c6ae5c-a537-4ce1-8ad5-d1e579e0275f@209.200.246.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=ECtV4BdcZKXG49uHtDX-71e1YVr7gu54ykbaBms9kh4&sid=c2f3117b3268d0a6#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9AUHJveHlWUE4xMSIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjIxNi4xMjguMTc2LjE2NiIsInBvcnQiOjI4ODA5LCJpZCI6ImViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMjE2LjEyOC4xNzYuMTY2IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9lYmNhNTU5Yy1hNGExLTQwNjItOTQ1My02NDEyZDhmZjUyNTUiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjoiY2hyb21lIn0
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&security=reality&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://f9c6ae5c-a537-4ce1-8ad5-d1e579e0275f@209.200.246.86:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ECtV4BdcZKXG49uHtDX-71e1YVr7gu54ykbaBms9kh4&sid=c2f3117b3268d0a6&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@184.107.141.174:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ca.servers.gracevpnbuy.com&fp=firefox&flow=xtls-rprx-vision&sid=b91a73752053b039&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=lizca2.footballfantasyforum.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
