@@ -2,13 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&fp=qq&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?encryption=none&fp=chrome&security=tls&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?&type=ws&headerType=none&host=estproxy4.lockdwn.com&path=%2F#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&fp=qq&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443/?type=grpc&encryption=none&flow=&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&security=reality&sid=4a46213c935e2ee4&sni=baltic.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&serviceName=grpc&type=grpc#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&type=grpc&serviceName=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&type=grpc&serviceName=grpc&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

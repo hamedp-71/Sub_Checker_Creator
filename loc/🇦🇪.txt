@@ -3,5 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&type=ws&host=uae.unixzone.us&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://74fbbe74-906d-4145-a27c-a85fc758bc9f@94.156.180.188.fwqfw783rg2dad.website:443?security=tls&type=ws&path=%2Fwebsocket%3Fed%3D2560&alpn=http%2F1.1&sni=94.156.180.188.fwqfw783rg2dad.website&fp=firefox&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA

@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?type=tcp&headerType=none&security=reality&encryption=none&sni=baltic.cendora.ru&fp=chrome&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%AC
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&allowInsecure=1&fp=chrome&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%AC

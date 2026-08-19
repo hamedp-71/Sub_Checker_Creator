@@ -3,6 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=firefox&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=193.124.46.65&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?encryption=none&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=%2Fwebsocket%3Fed%3D2560fp%3Dfirefox&security=tls&alpn=http%2F1.1&fp=firefox&sni=31.76.53.16.fwqfw783rg2dad.website#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
