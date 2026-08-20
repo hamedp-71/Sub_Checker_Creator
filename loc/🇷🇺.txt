@@ -2,9 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ==@45.8.158.176:10801#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://598b823c-d3fc-4013-aae5-837f10080f7a@api.kinomir.fun:40443?security=reality&encryption=none&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=33e48a03db900ff3#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@5.129.215.87:40443?security=reality&sni=deepl.com&fp=chrome&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&sid=3180&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@45.90.32.132:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?encryption=none&type=ws&path=%2Fv1&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
