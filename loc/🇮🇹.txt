@@ -2,6 +2,31 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@it.getsavesafe.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&security=reality&sid=62b6d6e51d461d78&sni=it.savesafe.cc&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws&sni=ov-italy1.09vpn.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?encryption=none&type=ws&path=%2F&security=tls&sni=it2ws.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?security=tls&type=ws&path=%2F&sni=it2ws.wba-pn.ru&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.savesafe.cc&fp=firefox&flow=xtls-rprx-vision&sid=62b6d6e51d461d78&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.apple.com&fp=firefox&sid=5b8a942318178e7b&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?security=tls&type=ws&path=%2F&sni=it2ws.wba-pn.ru&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&type=tcp&sni=www.apple.com&fp=chrome&sid=5b8a942318178e7b&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.75:443?security=reality&type=tcp&sni=it.savesafe.cc&fp=firefox&flow=xtls-rprx-vision&sid=62b6d6e51d461d78&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3Fbia_telegram%40marambashi_marambashi_marambashi_marambashi#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?security=reality&type=tcp&sni=it.savesafe.cc&fp=firefox&flow=xtls-rprx-vision&sid=62b6d6e51d461d78&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws&path=%2Fvless%2F&sni=ov-italy1.09vpn.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3Fbia_telegram%40marambashi_marambashi_marambashi_marambashi_marambashi&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=OV-Italy1.09vpn.com&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://1c82f022-513e-4f30-8cd8-eb548611752a@ita.montago-shop.ir:443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=firefox&sid=f88610dd&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=OV-Italy1.09vpn.com&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://c52d4d8b-57ba-4875-a00f-2908cfcd54d3@ita.montago-shop.ir:443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=firefox&sid=aefc7f3722&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@it.getsavesafe.com:443?security=reality&type=tcp&sni=it.savesafe.cc&fp=qq&flow=xtls-rprx-vision&sid=62b6d6e51d461d78&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
