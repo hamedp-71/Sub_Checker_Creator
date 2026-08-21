@@ -2,9 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?security=reality&type=tcp&sni=baltic.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=4a46213c935e2ee4&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=dartsearch-cn.net&fp=chrome&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&type=tcp&sni=dartsearch-cn.net&fp=chrome&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://5238521b-c5dd-42af-870e-c174a2aaaafe@31.76.83.114:13443?security=reality&type=tcp&sni=auto.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=baltic.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=4a46213c935e2ee4&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&security=reality&sid=4a46213c935e2ee4&sni=baltic.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9

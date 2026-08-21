@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws&sni=ov-italy1.09vpn.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B5
