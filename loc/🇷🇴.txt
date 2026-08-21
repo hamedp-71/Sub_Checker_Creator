@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-ru3.alohaapp.uk:443?type=tcp&security=reality&sni=cdn-ru3.alohaapp.uk&pbk=udUh9IEgJXs9oOs1VHQIl2wsIs4ucAKvuOzFcMEelUc&sid=b9f8f9772217538f&fp=chrome&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?alpn=http/1.1&encryption=none&fp=chrome&host=ro-3.ariyuz.org&path=/&security=tls&sni=ro-3.ariyuz.org&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443/?type=ws&encryption=none&flow=&host=ro-3.ariyuz.org&path=/&security=tls&sni=ro-3.ariyuz.org&alpn=http/1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
