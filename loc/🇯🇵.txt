@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -15,13 +15,16 @@ trojan://PQ05174892@13.113.231.8:443?sni=unbiased-coyote.rooster465.autos&fp=chr
 trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://FH72359861@52.195.225.156:443?security=tls&sni=many-pangolin.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoidG9reW8wMi56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIzZmUxMTNmOS1lNTY0LTQxMTEtYjhjNy0xMWY1OTc2ODc2ODkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6InRva3lvMDIuemdqb2suY29tIiwicGF0aCI6Ii8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+Hr/Cfh7UifQ
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsImFkZCI6InRva3lvMDIuemdqb2suY29tIiwicG9ydCI6NDQzLCJpZCI6IjNmZTExM2Y5LWU1NjQtNDExMS1iOGM3LTExZjU5NzY4NzY4OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRva3lvMDIuemdqb2suY29tIiwiZnAiOm51bGx9
+trojan://PQ05174892@13.113.231.8:443?sni=unbiased-coyote.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@many-pangolin.rooster465.autos:443?sni=many-pangolin.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&allowInsecure=1&type=tcp#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IjE3Mi4xMTEuMTQ2LjY0IiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwic25pIjoiMTcyLjExMS4xNDYuNjQiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJoYW1lZHA3MTo68J+Hr/Cfh7UifQ
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOiJOb25lIiwidGVzdF9uYW1lIjoiMTA1In0
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjgwLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?type=grpc&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&sni=ads.x5.ru&mode=gun&serviceName=grpc&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?encryption=none&type=grpc&serviceName=grpc&security=reality&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sni=ads.x5.ru&sid=c226283c4de5b1ad#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@64cq-19370l2.meiboyun.cloud:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?security=none&type=tcp&packetEncoding=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5

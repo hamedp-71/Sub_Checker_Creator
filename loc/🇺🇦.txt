@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@88.218.92.126:13443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=qq&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@88.218.92.126:13443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=chrome&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
