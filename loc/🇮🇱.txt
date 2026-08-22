@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://60cf6ea2-7a3c-4a97-b7db-92f4de0be0cc@198.62.62.171:443?security=tls&type=ws&path=%2Fafpmrsws&host=639222734213747055.forester-homaxe.info&sni=639222734213747055.forester-homaxe.info&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
 vless://60cf6ea2-7a3c-4a97-b7db-92f4de0be0cc@198.62.62.171:443?encryption=none&type=ws&host=639222734213747055.forester-homaxe.info&path=%2Fafpmrsws&security=tls&fp=chrome&sni=639222734213747055.forester-homaxe.info#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
