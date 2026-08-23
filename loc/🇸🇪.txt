@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@103.110.66.43:443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=www.amazon.se&fp=firefox&security=reality&pbk=ECYE8G81FW1V__Y9yBYxIU0TWWcConhXoJncZG1D_0U&sid=7a08844f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
