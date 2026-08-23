@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
