@@ -32,3 +32,4 @@ trojan://PQ05174892@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster46
 trojan://PQ05174892@87.121.33.48:443?sni=big-bonefish.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PQ05174892@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://FH72359861@87.121.33.104:443?sni=fluent-gar.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.8.kfc-520.com:10026?security=reality&type=tcp&sni=www.hp.com&fp=firefox&flow=xtls-rprx-vision&sid=017184&pbk=-iZh6xpEREbTssMskcpNOjrqzHuDTb3t5Mg9L7t9qXM#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
