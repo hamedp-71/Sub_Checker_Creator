@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?type=tcp&security=reality&sni=telegraf.lv&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&fp=firefox&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
-vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&fp=&mode=auto&path=/&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&security=reality&sid=72cd47c079c0a3df&sni=google.com&type=xhttp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=a1b2c3d4#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&type=tcp&sni=telegraf.lv&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
