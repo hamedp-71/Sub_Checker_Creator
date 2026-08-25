@@ -2,6 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=chrome&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://374181b9-44bf-44f1-a227-1184f3e9e47b@46.29.238.136:40443?encryption=none&type=tcp&security=reality&sni=deepl.com&fp=chrome&pbk=Ic-S89gGVGw1RnKJHOi3CzAmdU8fIdlMZOd4DBV7A3M&sid=bbb1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://6c52b79f-fd02-41bc-bf75-4c80fbc6a939@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?Telegram=@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server&security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?security=reality&encryption=none&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&headerType=&fp=chrome&type=tcp&sni=deepl.com&sid=68da#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://374181b9-44bf-44f1-a227-1184f3e9e47b@46.29.238.136:40443?security=reality&encryption=none&pbk=Ic-S89gGVGw1RnKJHOi3CzAmdU8fIdlMZOd4DBV7A3M&headerType=&fp=chrome&type=tcp&sni=deepl.com&sid=bbb1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
