@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8050/?type=tcp&encryption=none&flow=&sni=www.amd.com&fp=chrome&security=reality&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=chrome&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://6c52b79f-fd02-41bc-bf75-4c80fbc6a939@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?security=reality&encryption=none&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&headerType=&fp=chrome&type=tcp&sni=deepl.com&sid=68da#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?security=reality&type=tcp&packetEncoding=xudp&sni=nordic.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=2186a755ed67b034&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://374181b9-44bf-44f1-a227-1184f3e9e47b@46.29.238.136:40443?security=reality&encryption=none&pbk=Ic-S89gGVGw1RnKJHOi3CzAmdU8fIdlMZOd4DBV7A3M&headerType=&fp=chrome&type=tcp&sni=deepl.com&sid=bbb1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
