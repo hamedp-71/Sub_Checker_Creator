@@ -2,9 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?security=reality&encryption=none&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=baltic.cendora.ru&sid=4a46213c935e2ee4#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@132.243.65.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee.cdn-global.pro&fp=firefox&security=reality&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&sid=7a3f9e2b1c8d4f6a#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?security=reality&encryption=none&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=baltic.cendora.ru&sid=4a46213c935e2ee4#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://0ab6b3f5-65f0-4a80-9672-6a311fab1187@77.239.126.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es.ultraspeed.top&allowInsecure=1&fp=chrome&security=reality&pbk=WdQ6Bx39POGXpoEpeUeROr1RKv3FtchyVeXwkOii7nc&sid=a19afc0b48abf9e8&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eeb.webinarly.fun:443?encryption=none&security=tls&sni=eeb.webinarly.fun&fp=chrome&type=grpc&authority=&serviceName=edge.sync.v1&mode=gun#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?security=reality&type=tcp&allowInsecure=1&sni=baltic.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=4a46213c935e2ee4&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

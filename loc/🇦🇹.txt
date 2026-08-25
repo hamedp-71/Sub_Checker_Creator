@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8050/?type=tcp&encryption=none&flow=&sni=www.amd.com&fp=chrome&security=reality&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@91.232.114.148:443?path=/api/v1/irc&security=tls&encryption=none&insecure=0&host=vod.ensf.top&fp=chrome&type=ws&allowInsecure=0&sni=vod.ensf.top#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&type=tcp&sni=at.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@5.61.46.9:443?path=/api/v1/irc&security=tls&encryption=none&insecure=0&host=vod.ensf.top&fp=chrome&type=ws&allowInsecure=0&sni=vod.ensf.top#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?security=reality&type=tcp&sni=as.tunnelx.space&fp=chrome&flow=xtls-rprx-vision&sid=4e9b0c2d1a3f5768&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
