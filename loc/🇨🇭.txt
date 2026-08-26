@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@199.68.196.119:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://e2b8f727-c5ee-47e1-8f1b-7c5c61479ce0@45.90.56.231:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=e2e66f4537770cef&pbk=KrFnWxAwVGL6tuj1JE0qpykLzY4aOFjyK3OaymF_hT0&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.195.2.133:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8059?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=d3aea86e1949&spx=%2FCbvXqacLeVJd0uz&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

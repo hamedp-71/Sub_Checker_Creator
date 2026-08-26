@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?path=%2Fws-at&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=4fspx0q.uploodmusicmelody.ir&fp=unsafe&type=ws&allowInsecure=0&sni=4fspx0q.uploodmusicmelody.ir#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@104.17.108.69:443?encryption=none&type=ws&host=4fspx0q.uploodmusicmelody.ir&path=%2Fws-at&security=tls&alpn=http%2F1.1&fp=chrome&sni=4fspx0q.uploodmusicmelody.ir#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?security=reality&type=tcp&sni=at.quattro-tech.ru&fp=qq&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9

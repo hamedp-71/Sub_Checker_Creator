@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.134.26.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nordic.cendora.ru&fp=chrome&security=reality&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
+trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@by01.botovod.space:500?type=grpc&security=tls&fp=chrome&sni=by01.botovod.space&mode=gun&alpn=h2,http/1.1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
