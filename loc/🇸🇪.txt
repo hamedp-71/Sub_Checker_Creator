@@ -3,8 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://4f8efa61-96db-1391-b134-9ce844e31228@sw.volnalink.uk:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.booking.com&fp=firefox&security=reality&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c71b8709-0542-5345-a95b-719b6f20c79a@2.27.208.13.blanesik.space:443?encryption=none&type=ws&path=%2Fwebsocket%3Fed%3D2560&security=tls&fp=firefox&sni=2.27.208.13.blanesik.space#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@62.182.192.195:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@138.124.25.223:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://4f8efa61-96db-1391-b134-9ce844e31228@sw.volnalink.uk:2083?security=reality&encryption=none&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b4#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
