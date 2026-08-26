@@ -3,6 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?sni=tr-latvia1.unlimited-access.ru&path=%2f#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443/?type=tcp&security=tls&sni=tr-latvia1.unlimited-access.ru&alpn=http/1.1&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-west.cendora.ru&fp=qq&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096/?type=ws&encryption=none&flow=&path=%2F#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:13443?security=reality&type=tcp&sni=auto.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:443?security=reality&type=tcp&allowInsecure=1&sni=eu-west.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
