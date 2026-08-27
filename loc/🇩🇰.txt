@@ -5,4 +5,3 @@
 vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?type=tcp&security=reality&sni=telegraf.lv&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&fp=firefox&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
 vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@ipw.ygdfw.com:443?&security=tls&fp=unsafe&sni=p2bm6l1.freelanceriran98.ir&type=ws&headerType=none&host=p2bm6l1.freelanceriran98.ir&path=/ws-dk#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
 vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@104.25.233.30:443?encryption=none&type=ws&host=p2bm6l1.freelanceriran98.ir&path=%2Fws-dk&security=tls&sni=p2bm6l1.freelanceriran98.ir#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
-vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&type=tcp&sni=telegraf.lv&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0

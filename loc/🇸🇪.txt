@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@84.238.133.104:443?flow=xtls-rprx-vision&security=reality&sni=swed2.helper-internet.com&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=e3daad69&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://a99dd449-ed34-4469-a3ca-a1d7f9aa7cf4@157.173.3.169:443?security=tls&type=grpc&mode=gun&serviceName=grpc&alpn=h2&sni=4b9ibss6tuv6.bosfiles.net&fp=firefox#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=e3daad69&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
