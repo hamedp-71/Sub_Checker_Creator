@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&type=ws&host=uae.unixzone.us&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://c895720b-1b6e-45bf-904c-f2fdce03fd6e@62.238.51.238:3443?encryption=none&type=ws&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=tehran.chapjavan.ir#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
