@@ -3,5 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.119.19.208:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.119.19.208:443?security=reality&type=tcp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://9f4d8ff1-f83d-4590-987c-cd25039d3400@150.241.121.61:443?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=1pgt5wjq9slq.bosfiles.net&fp=firefox#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF

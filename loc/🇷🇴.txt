@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689/?type=httpupgrade&encryption=none&flow=&host=www.filimo.com&path=/host#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
