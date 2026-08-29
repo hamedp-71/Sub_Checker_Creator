@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@albania-sgood.wopd.butnorwa.butter.silicore.ir:10000/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&sid=cd0a1986719e44c8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
-vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@85.155.228.197:10000/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=firefox&security=reality&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&sid=cd0a1986719e44c8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1

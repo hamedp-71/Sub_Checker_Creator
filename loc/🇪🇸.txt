@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6rwn4e4IiwiYWRkIjoiODUuOTAuMjE3LjQyIiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExNiJ9
-vmess://eyJhZGQiOiIxNjkuNDAuMzIuNDgiLCJpZCI6ImY1NGU5M2QxLWNkOGUtNDM0Zi04MTIyLTQ4ODdlNjJjOTdmNSIsInBvcnQiOiI1MDYxIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJob3N0IjoiMTY5LjQwLjMyLjQ4IiwicGF0aCI6Ii9uZGl3bndpZGllODJJc21zaU9wIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh6rwn4e4In0
+vless://43c23116-1115-4af4-a0f0-56f02841a605@185.254.205.79:19842?headerType=none&flow=xtls-rprx-vision&sid=25ebc9e0a912&sni=www.tesla.com&security=reality&encryption=none&host=&pbk=sfOfuQeJBlKfDnPL_EMWUxMIiFAN8BNKjtWDUvlsjzM&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://6fbdbd3c-7696-4b9a-9a10-bcecc26e0f6f@212.227.235.66:2053?encryption=none&fp=&pbk=XrPOJwmpnq8NeCXu6K68Mp59gQ56Dr4YYboxI70kqzA&security=reality&sid=866af6e56606f2bc&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://898537d9-ce3a-4937-bbef-c0fa61c07791@93.189.94.67:48296?security=reality&encryption=none&pbk=ga1wUMMknP4pwJfUNOOvD9I35XV4q3c73byXPYbRxBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=109657bb2dbe99#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
