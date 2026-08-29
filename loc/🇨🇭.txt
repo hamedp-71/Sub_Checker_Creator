@@ -3,5 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://618acefa-2ff1-41b0-a295-f8a08858a897@lv02.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://10b93dba-7b48-46fe-98b5-fef94e2520cd@89.124.251.61:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://618acefa-2ff1-41b0-a295-f8a08858a897@lv02.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://10b93dba-7b48-46fe-98b5-fef94e2520cd@de46.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
