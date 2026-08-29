@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+IiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIifQ
+vless://cb3c9f84-903b-4701-9107-701b6347b0aa@56.69.197.40:22732?security=reality&type=tcp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=2a2aa1d1366cef&pbk=vHWs24ZHKIvNpToXCwB68TK0mybgKe1Yfq1Jdnas5TU&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE

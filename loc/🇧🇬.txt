@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
-vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@131.123.42.150:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bul2.helper-internet.com&sid=ff776ff77be48b88#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC

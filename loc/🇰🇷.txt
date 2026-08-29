@@ -2,7 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vmess://eyJ2IjoiMiIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA2In0
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&type=tcp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://78990f64-7bc8-48b9-a127-0d5545593a38@43.203.242.114:12359?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=8f30f2fa8282cebc&pbk=8SUi1EG0YaPd7spjghl2QcZYvuJfEtPjqR9Vpzgc2Q4&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
