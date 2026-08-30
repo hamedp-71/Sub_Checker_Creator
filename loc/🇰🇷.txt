@@ -3,12 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoia3IwMi5hMGEueHl6IiwidGVzdF9uYW1lIjoiOTAifQ
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&type=tcp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.intel.com&fp=firefox&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&sid=fa1e592603c283&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=58186df4a95a1504&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
