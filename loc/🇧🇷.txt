@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RldsVUNBUzlJQk5nKzVGb1orVTBrUnMzZGN6K29RblFrakdJL2lLWk1SMD0=@146.235.25.6:59319#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1JlLzBKK2dwSklMYXpGTXU4bjRMbzZKMUFqb0lHMittZENvUjdSbVg3ND0=@144.22.225.161:59319#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@188.114.97.6:443?encryption=none&type=ws&host=mao.kipfel.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&sni=mao.kipfel.kdns.fr#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@mfa.gov.ua:443?security=tls&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=mao.kipfel.kdns.fr&sni=mao.kipfel.kdns.fr&fp=chrome#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
