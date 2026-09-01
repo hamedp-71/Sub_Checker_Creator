@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+IiwiYWRkIjoiNDcuMjUwLjQ1LjIzNCIsInBvcnQiOiI0MzA2MyIsImlkIjoiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0MSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+IiwiYWRkIjoiNDcuMjUwLjQ1LjIzNCIsInBvcnQiOjQzMDYzLCJpZCI6ImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiNDcuMjUwLjQ1LjIzNCIsInBhdGgiOiIvYXJraSJ9
 vless://85dd8227-0f12-4826-a712-6313211774b5@43.217.16.8:21874/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=75sTDYJk8ylA97-aBhAlF1tU4OaCfdOaOSIBshPW7Bs&sid=42e853a5559e1032&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
 vless://8a346b7c-5b95-4845-affa-0e5d9929e9ae@38.60.168.98:2087/?type=ws&encryption=none&flow=&path=%2Fdb55c40bbc75&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
 vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=0a9bd9db19578964&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
