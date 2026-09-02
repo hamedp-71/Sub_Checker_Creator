@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@188.114.97.6:443?path=/glasspanel/guest000_0_5de14443985f/&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=mao.kipfel.kdns.fr&type=ws&allowInsecure=0&sni=mao.kipfel.kdns.fr#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
