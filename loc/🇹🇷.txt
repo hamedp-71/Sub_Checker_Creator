@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&allowinsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@144.225.65.111:46142/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=chrome&security=reality&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://24e84618-3de6-4e3b-802e-5abbe666c4b0@tr-server-1.zelnora.ir:22189?encryption=none&type=xhttp&mode=packet-up&host=amp-api-edge.apps.apple.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@144.225.65.111:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

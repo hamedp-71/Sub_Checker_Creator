@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443?security=reality&encryption=none&pbk=PMYLdOtnvW-ca8Zf6u7CFgGXoGXCvmCMPerPjGY3AAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=77d7abe2c55892f1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=PMYLdOtnvW-ca8Zf6u7CFgGXoGXCvmCMPerPjGY3AAc&sid=77d7abe2c55892f1&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
