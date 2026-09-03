@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://d384974a-87c2-430b-a10c-ae367bc7ced8@turkey2vfsdvrwevr32v23v423ccdsrbsdbrsdvsdc.soft421.ir:1152/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&sid=86a68a48b7d45f43#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
