@@ -3,15 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?&security=reality&flow=xtls-rprx-vision&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&fp=chrome&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=/#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&security=reality&sid=64c147592a2f84d9&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:8443?security=reality&type=xhttp&sni=laoye.in-gect.fun&fp=firefox&pbk=Z3adeet9wvavdQ8mY6BZYgoXe22BV5DFcsyFChWYNUM#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=ios#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=chrome#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?security=none&type=ws&path=%2F&host=laoye.in-gect.fun&sni=laoye.in-gect.fun#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?security=none&type=ws&path=%2F&host=laoye.in-gect.fun#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality&type=tcp&sni=vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=d26f4703cdd30f4e&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?security=none&type=ws&path=%2F&host=laoye.in-gect.fun&sni=laoye.in-gect.fun#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
