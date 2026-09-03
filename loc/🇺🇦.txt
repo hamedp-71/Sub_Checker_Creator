@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://f1904bfb-3903-4949-814a-e1053a918e34@46.28.65.153:443?security=reality&encryption=none&pbk=45xYuYgCIILK5XYvV_D13LJWvCKuoipdKzDfaEBZuW8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1df5faea50efd4fc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://f1904bfb-3903-4949-814a-e1053a918e34@46.28.65.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=45xYuYgCIILK5XYvV_D13LJWvCKuoipdKzDfaEBZuW8&sid=1df5faea50efd4fc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
