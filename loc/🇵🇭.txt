@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
-vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJob3N0IjoiNjEuMjQ1LjExLjYwIiwiaWQiOiJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6ODAsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4etIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://9ed3dcb3-b71a-4ae1-8210-95e33615d7e6@149.104.109.17:2087/?type=ws&encryption=none&flow=&path=%2F04461917b179&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
+vless://9ed3dcb3-b71a-4ae1-8210-95e33615d7e6@149.104.109.17:2087?encryption=none&type=ws&path=%2F04461917b179&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%AD
