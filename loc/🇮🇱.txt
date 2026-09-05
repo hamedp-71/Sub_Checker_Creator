@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://a28a90ab-9b5d-4c61-861d-3ea3f92fc0a2@85.209.157.209:18832?type=tcp&security=reality&pbk=JEJp-oUH9EvcdX0FMUTBzjUn3yZc83i_HFstK2uNwmQ&sid=3467&fp=chrome&sni=addons.mozilla.org&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1

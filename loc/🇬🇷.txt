@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083/?type=grpc&encryption=none&flow=&serviceName=security.debian.org&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=aae8#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&fm=https://t.me/ShadowFlux2&authority=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&type=grpc&serviceName=security.debian.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&fm=https%3A%2F%2Ft.me%2FShadowFlux2&type=grpc&authority=&serviceName=security.debian.org&mode=gun#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&type=grpc&serviceName=security.debian.org&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7

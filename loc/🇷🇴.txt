@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M=@45.207.207.25:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%A8
+vless://3614a2a2-b0db-43f7-9a34-b1248539d848@82.152.132.103:64584?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
