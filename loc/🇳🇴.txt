@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://05020afd-d476-406b-8950-ee7dd63a6e64@151.242.168.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=edge&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&sid=46babe29a750b634&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://3aaf6f5a-bebe-42c9-a2da-0c5500146451@194.110.207.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wHf1nSF3byWgtI0aprUDgbEBrgtE6Y8bpqnNxl9lhhg&security=reality&sid=763a06472e66efff&sni=fernandfoxgloveinteriors.co.uk&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=qq&sni=deepl.com&sid=f7b2&spx=%2F#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://374181b9-44bf-44f1-a227-1184f3e9e47b@46.29.238.136:40443?type=tcp&headerType=none&security=reality&pbk=Ic-S89gGVGw1RnKJHOi3CzAmdU8fIdlMZOd4DBV7A3M&fp=qq&sni=deepl.com&sid=bbb1&spx=%2F#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://05020afd-d476-406b-8950-ee7dd63a6e64@151.242.168.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://374181b9-44bf-44f1-a227-1184f3e9e47b@46.29.238.136:40443?security=reality&encryption=none&pbk=Ic-S89gGVGw1RnKJHOi3CzAmdU8fIdlMZOd4DBV7A3M&headerType=none&fp=chrome&spx=/&type=tcp&sni=deepl.com&sid=bbb1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://5899ca33-5cb2-4fa2-9557-b496bde9c974@151.242.168.182:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://05020afd-d476-406b-8950-ee7dd63a6e64@151.242.168.180:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=chrome&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&sid=46babe29a750b634&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
