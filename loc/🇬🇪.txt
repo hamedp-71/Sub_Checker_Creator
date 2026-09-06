@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%AA
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?security=reality&type=tcp&packetEncoding=xudp&sni=n1.cloudgaming.one&fp=chrome&flow=xtls-rprx-vision&sid=6d6f13013d3e1d0c&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%AA
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=n1.cloudgaming.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%AA

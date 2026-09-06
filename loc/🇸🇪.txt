@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=www.google.com&fp=firefox&security=reality&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&sid=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d7430ae7-320c-4658-808b-3006d0627d82@popos.ubuntuhosting.host:443/?type=grpc&encryption=none&flow=&serviceName=gun&sni=popos.ubuntuhosting.host&fp=edge&security=reality&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d7430ae7-320c-4658-808b-3006d0627d82@popos.ubuntuhosting.host:443?encryption=none&fp=&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&security=reality&serviceName=gun&sid=3fa234ea9feaa048&sni=popos.ubuntuhosting.host&type=grpc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@185.189.45.247:443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
