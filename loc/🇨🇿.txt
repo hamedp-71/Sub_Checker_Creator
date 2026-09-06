@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@czek1.kovsh.lol:443?type=tcp&security=reality&sni=czek1.kovsh.lol&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&sid=2cec07a8614696e5&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@5.39.202.127:443?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&security=reality&encryption=none&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=czek1.kovsh.lol&sid=2cec07a8614696e5#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.166:7444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=akamai.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@5.39.202.127:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=czek1.kovsh.lol&fp=chrome&security=reality&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&sid=2cec07a8614696e5&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
