@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&fp=chrome&sni=www.apple.com&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab&sni=www.apple.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaFNyQnJtS21yZ05Hc0Q5N1JTR09TNXArWElGcUVWazZabzRBSGJzUmhnPQ==@85.209.157.209:29367#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+vless://a28a90ab-9b5d-4c61-861d-3ea3f92fc0a2@85.209.157.209:18832?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JEJp-oUH9EvcdX0FMUTBzjUn3yZc83i_HFstK2uNwmQ&security=reality&sid=3467&sni=addons.mozilla.org&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
