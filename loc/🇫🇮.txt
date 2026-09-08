@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&encryption=none&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.unsplash.com&sid=7da2eae792187ab9#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@217.60.33.44:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&security=reality&sid=a1b2c3d4&sni=fi.aeternavpn.space&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@217.60.33.44:8443?security=reality&type=tcp&sni=fi.aeternavpn.space&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@217.60.33.44:8443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=fi.aeternavpn.space&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@217.60.33.44:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&security=reality&sid=a1b2c3d4&sni=fi.aeternavpn.space&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://1c8a341b-050d-4dff-9f5c-df367d606993@199.232.78.159:80?path=/&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
