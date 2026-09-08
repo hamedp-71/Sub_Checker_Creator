@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.crunch-crunch.com&sid=ea1058117be12087#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e7#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
