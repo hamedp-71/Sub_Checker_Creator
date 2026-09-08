@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?encryption=none&type=ws&path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=31.76.21.44.fwqfw783rg2dad.website#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=www.google.com&fp=firefox&security=reality&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&sid=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=31.76.21.44.fwqfw783rg2dad.website#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?encryption=none&type=ws&path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=31.76.21.44.fwqfw783rg2dad.website#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
