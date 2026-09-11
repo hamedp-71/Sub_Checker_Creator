@@ -4,5 +4,4 @@
 
 vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://7b363f9c-3df9-4b60-a789-9cd36be0bdfe@151.242.168.125:390?security=reality&flow=xtls-rprx-vision&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&sid=b545fe8c5e22f92d&fp=qq&sni=bowandbead.com&type=tcp&headerType=none&host=bowandbead.com&path=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-25.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-25.moriarty-web.com&fp=firefox&alpn=h2&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://b02ff150-ee30-46e0-9ea1-adbfd7762a06@151.242.168.125:390?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bowandbead.com&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&sid=b545fe8c5e22f92d&fp=ios#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
