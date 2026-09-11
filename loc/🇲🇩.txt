@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?security=reality&type=tcp&allowInsecure=1&sni=hotcoals.aeternavpn.space&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
