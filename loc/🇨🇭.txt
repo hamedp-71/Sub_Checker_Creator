@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
