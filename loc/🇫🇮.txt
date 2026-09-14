@@ -2,9 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@fl.windconnect.pro:443?security=reality&type=tcp&sni=fl.windconnect.pro&fp=safari&flow=xtls-rprx-vision&sid=3c6ec7b2d73a28b6&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@2.26.89.16:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=NA5eMfdHkl_L80S75uxQwUirS9nvZ80V2u1s71KeXkc&sid=2de63d3fd7261b7e&sni=assets-ms-35.ecom-ai-solutions.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@2.26.91.57:443?security=reality&type=tcp&sni=fl.windconnect.pro&fp=firefox&flow=xtls-rprx-vision&sid=3c6ec7b2d73a28b6&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://efc8337e-27ce-4ab4-9ef9-c7f9e5eef575@216.24.57.1:443?security=tls&type=ws&path=%2F&host=f.tmkkarss.online&alpn=http%2F1.1&sni=f.tmkkarss.online&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.77.199.182:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&sni=fi2.yservice.help#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@fl.windconnect.pro:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=fl.windconnect.pro&fp=safari&flow=xtls-rprx-vision&sid=3c6ec7b2d73a28b6&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

@@ -3,7 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=/&type=grpc&serviceName=TunService&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=firefox&type=grpc&serviceName=TunService&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://16b37572-636e-4f46-8d45-203fccd4bff8@217.60.33.10:2083?type=tcp&headerType=none&security=reality&encryption=none&sni=duckduckgo.com&fp=firefox&pbk=eqO4TovZOQWX5uBhCM3pwIwq437DQFgVbma6JMgDXBE&sid=e50351b1461e6b88&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?type=tcp&security=reality&fp=firefox&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
