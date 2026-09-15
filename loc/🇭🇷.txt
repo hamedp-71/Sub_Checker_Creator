@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hr.convert-flow.net&fp=qq&security=reality&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B7

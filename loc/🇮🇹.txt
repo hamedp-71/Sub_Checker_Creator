@@ -2,10 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY&sid=37fbf155c7a9f3ff&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://0f2765c2-1845-4545-987e-337c7cfb4e52@116.204.164.5:7443?encryption=none&type=ws&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dd3f783-aa97-420b-8aaa-d8a6c9679dad@116.204.164.30:7443?encryption=none&type=ws&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://c82e5af9-5fef-4fdd-9454-2682873e1563@116.204.164.27:7443?encryption=none&type=ws&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY&security=reality&sid=37fbf155c7a9f3ff&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
