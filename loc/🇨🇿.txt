@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://ffa722c8-da3f-4371-a0e0-6afcc9f3f93b@194.87.59.6:2085/?type=grpc&encryption=none&flow=&serviceName=vless#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://ffa722c8-da3f-4371-a0e0-6afcc9f3f93b@194.87.59.6:2085?type=grpc&mode=multi&serviceName=vless#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
