@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&encryption=none&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&headerType=&fp=chrome&type=tcp&sni=deepl.com&sid=7606#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://b02ff150-ee30-46e0-9ea1-adbfd7762a06@151.242.168.125:390?flow=xtls-rprx-vision&security=reality&encryption=none&sni=bowandbead.com&fp=ios&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&sid=b545fe8c5e22f92d&path=%2f#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@46.29.238.32:40443?security=reality&sni=deepl.com&type=tcp&fp=chrome&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&sid=7606&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?security=reality&sni=deepl.com&fp=qq&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&sid=f7b2&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
