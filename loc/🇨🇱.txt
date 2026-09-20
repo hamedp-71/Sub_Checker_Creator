@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw==@64.176.2.21:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform109&host=platform109.halalkhor.info&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
