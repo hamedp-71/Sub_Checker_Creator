@@ -4,9 +4,9 @@
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=tcp&encryption=none&flow=&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?&security=reality&flow=xtls-rprx-vision&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.76.113.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=italia.superbuba.top&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.77.201.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=italia.superbuba.top&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@italia.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=italia.superbuba.top&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3&spx=%2F&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.76.113.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=italia.superbuba.top&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.77.154.14:8443?security=reality&encryption=none&pbk=3O__mdy-whzI07V-QEyR6GQnag1FNwtHijDxt2_jkDQ&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=swscan.apple.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?&security=reality&flow=xtls-rprx-vision&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
