@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://c86f3ea2-4594-4966-a14a-8c7a45051b69@31.58.181.88:8443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://4a64b0c2-de7e-4e32-b931-247be6dc4488@31.58.181.88:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&sni=tradingview.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://4e32f662-01da-4dad-bf33-ee17f578d118@31.58.181.88:8443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
