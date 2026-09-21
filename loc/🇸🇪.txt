@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.194.60:8081?encryption=none&type=ws&path=%2Fvless-test&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.31.28.106:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=/trade&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.107.155.76:2053?path=%2Ftv%2Fmember%2Fauth%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.38.139.23:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/jumping/class/bt?ed=2560&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.228.142.148:8443?security=tls&type=ws&path=%2Fact%2Frank%2Flang&host=cdn8848.776676.xyz&allowInsecure=1&sni=cdn8848.776676.xyz&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
