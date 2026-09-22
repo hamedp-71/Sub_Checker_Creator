@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@193.180.208.169:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0

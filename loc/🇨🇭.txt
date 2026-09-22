@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@94.249.187.46:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vmess://eyJhZGQiOiI5NC4yNDkuMTg3LjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4etIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+vmess://eyJhZGQiOiI5NC4yNDkuMTg3LjQ2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4etIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ4IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@45.140.205.2:443?security=reality&encryption=none&pbk=he6F0xhRgRSY0qekzzUoFHroztc6V06CpJ5UfSSlxmg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=promo.ch.iki-servers.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
