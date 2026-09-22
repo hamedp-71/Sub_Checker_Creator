@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
