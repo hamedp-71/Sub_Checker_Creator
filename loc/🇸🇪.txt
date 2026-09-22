@@ -3,5 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.107.155.76:2053?path=%2Ftv%2Fmember%2Fauth%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.38.139.23:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/jumping/class/bt?ed=2560&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.194.60:8081?path=%2Fvless-test&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?flow=xtls-rprx-vision&fp=chrome&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@no.cnd.sweden.myfilecdn.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&sid=8a2b3c4d5e6f7012&sni=tradingview.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@31.76.3.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&security=reality&sid=8a2b3c4d5e6f7012&sni=tradingview.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&spx=%2F&serviceName=TunService&fp=edge#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
