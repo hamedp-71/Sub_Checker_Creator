@@ -2,11 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@179.255.191.40:8443/?type=ws&encryption=none&flow=&path=%2Fassets&security=tls&sni=switz.luxes.network&fp=firefox#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@179.255.191.40:8443?path=/assets&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=switz.luxes.network#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.249.220:443?path=/&security=tls&encryption=none&insecure=0&host=sardach3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
