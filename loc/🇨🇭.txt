@@ -3,6 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@179.255.191.40:8443/?type=ws&encryption=none&flow=&path=%2Fassets&security=tls&sni=switz.luxes.network&fp=firefox#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
