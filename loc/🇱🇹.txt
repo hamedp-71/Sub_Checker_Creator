@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@lt.aether-runet.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=lt.aether-runet.top&fp=firefox&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://d448490d-4ee6-442f-80e1-5e1c186c4ce1@94.176.234.161:443?security=reality&type=tcp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=dbb2ef1c7c&pbk=UpI0XKNUsMJ24XawPQ8g7br1faEsO7BOvmIIGg9Wrm8&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
