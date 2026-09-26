@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://7a8d2c3f-d6dd-0004-81d8-cff23d8364ee@13.143.181.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk1.maxtelemost.com&fp=safari&security=reality&pbk=QfdR5yEjdbaqSet3-XrkDdVjPO9VTRGlUI-MV-b4p38&sid=#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://7a8d2c3f-d6dd-0004-81d8-cff23d8364ee@13.143.181.220:443?security=reality&encryption=none&pbk=QfdR5yEjdbaqSet3-XrkDdVjPO9VTRGlUI-MV-b4p38&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=msk1.maxtelemost.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
