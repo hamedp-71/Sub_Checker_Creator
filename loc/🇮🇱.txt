@@ -2,13 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&sni=platform113.halalkhor.info&type=ws&headerType=none&host=platform113.halalkhor.info&path=%2Fplatform113#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&type=ws&headerType=none&host=platform118.halalkhor.info&path=%2Fplatform118#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=/platform117&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&type=ws&headerType=none&host=platform117.halalkhor.info&path=%2Fplatform117#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?encryption=none&host=platform118.halalkhor.info&path=/platform118&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform113.halalkhor.info&path=%2Fplatform113#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform118&host=platform118.halalkhor.info#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform113&host=platform113.halalkhor.info&sni=platform113.halalkhor.info#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform117&host=platform117.halalkhor.info#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform113&host=platform113.halalkhor.info&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+vless://83b4af70-376e-427c-8c11-a025bec6b085@fserver-worker-001.mapleridgeway.top:443/?type=ws&encryption=none&flow=&host=fserver-worker-001.mapleridgeway.top&path=%2Fcdn%2F99294c014f2c7791&ed=2056&eh=Sec-WebSocket-Protocol&security=tls&sni=fserver-worker-001.mapleridgeway.top&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+vless://83b4af70-376e-427c-8c11-a025bec6b085@fserver-worker-001.mapleridgeway.top:443?encryption=none&type=ws&host=fserver-worker-001.mapleridgeway.top&path=%2Fcdn%2F99294c014f2c7791%3Fed%3D2056&security=tls&alpn=http%2F1.1&fp=chrome&sni=fserver-worker-001.mapleridgeway.top#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+vless://83b4af70-376e-427c-8c11-a025bec6b085@fserver-worker-001.mapleridgeway.top:443?security=tls&type=ws&path=%2Fcdn%2F99294c014f2c7791%3Fed%3D2056&host=fserver-worker-001.mapleridgeway.top&alpn=http%2F1.1&sni=fserver-worker-001.mapleridgeway.top&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
