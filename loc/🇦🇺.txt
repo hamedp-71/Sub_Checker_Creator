@@ -2,13 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.29.16:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.242:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.29.16:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&fp=qq&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.242:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?type=tcp&security=reality&fp=firefox&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&sid=4cc9dc65f7770115&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.242:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
