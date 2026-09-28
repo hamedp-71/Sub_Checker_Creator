@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://31fd2fde-ca69-450e-8c03-eaad819b06b9@146.70.102.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.datadoghq.com&fp=firefox&pbk=GDer6NQYXdbccrFI0tLn2671PjCvrcSy0R7TKY8vG1k&sid=002fb4ec7b3088cc&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://31fd2fde-ca69-450e-8c03-eaad819b06b9@146.70.102.82:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GDer6NQYXdbccrFI0tLn2671PjCvrcSy0R7TKY8vG1k&security=reality&sid=002fb4ec7b3088cc&sni=www.datadoghq.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
