@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&type=tcp&sni=cz1.animeteka.info&fp=safari&flow=xtls-rprx-vision&sid=232b1b09e45325a4&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
