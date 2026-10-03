@@ -1,0 +1,9 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@ddnl0.zazazuza.ru:2053?path=/vpn-wss/fluxor/59011/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.76:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.74:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.75:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.81:2053?encryption=none&type=ws&host=wss.zazazuza.ru&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=wss.zazazuza.ru#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%BE
