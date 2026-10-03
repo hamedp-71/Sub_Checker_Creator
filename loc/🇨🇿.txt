@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&type=tcp&sni=cz1.animeteka.info&fp=safari&flow=xtls-rprx-vision&sid=232b1b09e45325a4&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@cz.monkora.org:443?security=reality&type=tcp&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.161:9891?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&security=reality&sid=232b1b09e45325a4&sni=cz1.animeteka.info&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
