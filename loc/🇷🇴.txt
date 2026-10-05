@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NUtaSDZXSXNFMGx5Z2ZLUkx0c3RHUT09OmQ4QzFGY2lLb2FGRDZ4UkZiQ1l5RlE9PQ==@Bulbul.color-panel.ir:1080#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&fp=chrome&security=reality&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&sid=87709fed663228e5#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.15:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&fp=chrome&security=reality&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&sid=87709fed663228e5#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.15:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
