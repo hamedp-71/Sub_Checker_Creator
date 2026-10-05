@@ -5,3 +5,4 @@
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@argo6.5671234.xyz:443?path=/e8e2cecb6188f7fb&security=tls&encryption=none&insecure=0&host=argo6.5671234.xyz&type=ws&allowInsecure=0&sni=argo6.5671234.xyz#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.235.241:24215?fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@argo6.5671234.xyz:443?encryption=none&type=ws&host=argo6.5671234.xyz&path=%2Fe8e2cecb6188f7fb&security=tls&sni=argo6.5671234.xyz#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
