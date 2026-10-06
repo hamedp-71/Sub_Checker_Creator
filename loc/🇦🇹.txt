@@ -3,3 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bigdick.gamegrow.ru#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
