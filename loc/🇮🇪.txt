@@ -2,15 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eW45SlJqaWNyV09XcUFK@20.166.33.115:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&path=/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://UX82473651@sacred-anemone.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?security=reality&type=tcp&packetEncoding=none&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&sid=ce6767c3f1&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
