@@ -2,28 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206YWM5YzBhN2I=@ce1fc2d8.krkt.hkssip.com:49642#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&sni=optimum-snapper.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&sni=pretty-rat.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@3.34.131.153:443?sni=pretty-rat.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@3.35.217.113:443?sni=amazing-peacock.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@43.201.100.203:443?sni=optimum-snapper.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?sni=amazing-peacock.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@3.34.131.153:443?sni=pretty-rat.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@43.201.100.203:443?sni=optimum-snapper.rooster465.autos&allowInsecure=1&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@43.201.100.203:443?sni=optimum-snapper.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?sni=amazing-peacock.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoia3IwMi5hMGEueHl6IiwidGVzdF9uYW1lIjoiNTkifQ
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&encryption=none&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3c4041d3#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?type=tcp&security=reality&fp=firefox&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&sid=429499c03d4cc8a0&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
