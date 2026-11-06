@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
