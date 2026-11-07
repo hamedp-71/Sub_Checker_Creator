@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://0ef68b97-f878-4cea-b756-c56ea3632851@news.zoom.us:2087?encryption=none&type=ws&host=free.vkehi.store&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=free.vkehi.store#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B0
-vless://0ef68b97-f878-4cea-b756-c56ea3632851@news.zoom.us:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=free.vkehi.store&type=ws&sni=free.vkehi.store&fp=android#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B0
