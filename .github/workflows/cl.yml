@@ -22,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          # استفاده از نسخه پایدار 3.12
+
           python-version: '3.13'
 
       - name: Install Python dependencies
