@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?&security=tls&fp=firefox&sni=82.152.132.74&type=ws&headerType=none&host=82.152.132.74&path=%2Fassets%2Fsync-8f3a71#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@103.102.229.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&security=reality&sid=a1b2c3d4e5f60718&sni=cdn-rum-keno-prsv.keno.su&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
