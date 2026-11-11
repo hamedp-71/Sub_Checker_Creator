@@ -2,9 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&fp=chrome&sni=au001.zestapp778.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&allowInsecure=1&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?fp=chrome&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
