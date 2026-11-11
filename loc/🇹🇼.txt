@@ -4,3 +4,4 @@
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@amasoid.ddns.net:14514#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5462?security=reality&encryption=none&pbk=biUjzfAfxrbE_4GNfOCbSG-YW5tDUlqZTeyhJb6OG30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=4b7a508fcd3ef1a1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
