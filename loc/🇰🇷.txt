@@ -3,12 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTQ2LjU2LjExMi4xMTAiLCJwb3J0IjoiODg4OCIsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTM2Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsImhvc3QiOiJudWxsIn0
 vmess://eyJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsImFpZCI6IjAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsIm5ldCI6InRjcCIsInBvcnQiOiI4MDAiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6MCwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6ODAsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoia3IwMi5hMGEueHl6IiwidGVzdF9uYW1lIjoiMTAwIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50135?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ugirklnmY9hUeY9BQ9rdeVbu29iGblEM8N2_HHA8Rk4&sid=8cd0eddfb0&sni=api.adidas.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F&sni=152.69.226.63#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F&host=152.69.226.63#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7

@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&type=tcp&packetEncoding=xudp&sni=bg2.gacvpn.site&fp=firefox&flow=xtls-rprx-vision&sid=1f8bab7ad81089f2&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&security=reality&sid=1f8bab7ad81089f2&sni=bg2.gacvpn.site&type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50126?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XgRdRRJhfjkRmBiRu2PWEmn4kch0lS0hXWM4AzRDx2I&sid=2cc6a03dcf980530&sni=api.adidas.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@bg2.gacvpn.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&security=reality&sid=1f8bab7ad81089f2&sni=bg2.gacvpn.site&type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
