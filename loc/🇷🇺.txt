@@ -3,8 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.117:18443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://YWVzLTEyOC1nY206ODcyMmRlNTZiNmMwYjNmNmE0ZDAxY2Y5MWMwN2U2YWE=@38.60.223.125:13108#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?security=tls&type=grpc&mode=gun&serviceName=mobile.api.Event&packetEncoding=xudp&alpn=h2&sni=vps3.nemnogogo.com&fp=firefox&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&type=grpc&serviceName=mobile.api.Event&security=tls&alpn=h2&fp=firefox&sni=vps3.nemnogogo.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
