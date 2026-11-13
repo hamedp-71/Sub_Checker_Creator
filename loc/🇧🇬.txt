@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?encryption=none&type=grpc&serviceName=grpc&security=tls&alpn=h2&fp=edge&sni=bg2.oncloudvpn.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=gateway.icloud.com&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC

@@ -3,5 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&security=reality&sid=d5492c7a39515c65&sni=cache-78.topp-con.xyz&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&allowInsecure=1&sni=udemy.com&fp=chrome&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?encryption=none&host=fs.qicai99.com&path=/fp=chrome&security=tls&sni=fs.qicai99.com&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
