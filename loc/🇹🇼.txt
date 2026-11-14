@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@amasoid.ddns.net:14514#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@35.236.180.222:14514#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
