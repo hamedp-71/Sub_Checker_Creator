@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?path=/362b2b2c7197d648&security=tls&encryption=none&insecure=0&host=xray-m0642ki4-silver-nebula-10.cloady.io&fp=chrome&type=ws&allowInsecure=0&sni=xray-m0642ki4-silver-nebula-10.cloady.io#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://f1a7e2c8-b140-50d1-8acf-e62090f96599@13.140.253.35:443?path=/27dbf143acdd7bca&security=tls&encryption=none&insecure=0&host=xray-bprkdwje-clever-comet-4.cloady.io&fp=chrome&type=ws&allowInsecure=0&sni=xray-bprkdwje-clever-comet-4.cloady.io#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=random&host=www.apple.com&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&sni=13.140.56.100#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
