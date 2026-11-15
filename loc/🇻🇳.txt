@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&sni=bilibili-vn.biliimg.com#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
