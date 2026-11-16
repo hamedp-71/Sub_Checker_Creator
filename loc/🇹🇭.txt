@@ -3,5 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4etIiwiYWRkIjoiMTE5LjQ2LjUxLjQ1IiwicG9ydCI6Mzc1MTUsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
