@@ -4,11 +4,17 @@
 
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@206.238.239.245:2083?encryption=none&security=tls&sni=vipfree.dr-ping.ir&fp=chrome&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@198.202.24.142:2083?&security=tls&fp=chrome&sni=vipfree.dr-ping.ir&type=ws&headerType=none&host=vipfree.dr-ping.ir&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?encryption=none&host=193.188.21.253&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@198.202.24.214:2083?encryption=none&security=tls&sni=vipfree.dr-ping.ir&fp=chrome&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://6c077993-952c-4318-9e93-89056a207a9b@141.227.170.220:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?fp=unsafe&host=45.144.234.157&path=%2Fvless&security=none&sni=45.144.234.157&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&host=213.176.92.168&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs&security=reality&sid=81959fce&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@209.94.90.201:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@206.238.237.25:2083?encryption=none&security=tls&sni=vipfree.dr-ping.ir&fp=chrome&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@209.206.51.236:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@206.238.239.20:2083?encryption=none&security=tls&sni=vipfree.dr-ping.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@209.94.90.47:2083?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=81959fce&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=81959fce&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=safari&sni=video.yandex.ru&type=tcp&headerType=none&host=video.yandex.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
