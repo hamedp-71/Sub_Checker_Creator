@@ -3,8 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?sni=connect-se.mimowhat.online&allowInsecure=1&type=tcp&alpn=h2%2Chttp%2F1.1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vmess://eyJhZGQiOiIxMzguMTk5LjU1LjIzMCIsImFpZCI6MCwiaG9zdCI6InhtZmhscHkuY29tIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjcwIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMjcwLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiJTRSDwn4e48J+HqiB8IEBSYXlkaWthbHggfCBCMjM5QjQifQ
+vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.214.159:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=api-svc-mgr.galioncc.com&headerType=none&fp=chrome&type=tcp&sni=api-svc-mgr.galioncc.com&sid=a7c92e4b10d6f835#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
