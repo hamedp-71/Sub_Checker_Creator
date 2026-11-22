@@ -2,7 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTI5LjE1NC42MS4xOTYiLCJwb3J0IjoiODAwIiwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@leviko-kr7255.shopingggg.ir:25555?security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
