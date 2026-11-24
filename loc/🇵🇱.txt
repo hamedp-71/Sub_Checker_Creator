@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4exIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0
+vless://6dd17e9f-5b7c-466d-a53a-7c30f5dc8338@191.217.253.12:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=191.217.253.12&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=191.217.253.12&sid=db04ce8bdb8900f1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://6dd17e9f-5b7c-466d-a53a-7c30f5dc8338@leviko-pl7374.shopingggg.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=191.217.253.12&fp=chrome&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=191.217.253.12#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
