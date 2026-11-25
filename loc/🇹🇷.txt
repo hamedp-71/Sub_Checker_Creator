@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sinavm3.soft10.ir&fp=chrome&type=ws&allowInsecure=0&sni=sinavm3.soft10.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http%2F1.1&fp=chrome&sni=sinavm3.soft10.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
