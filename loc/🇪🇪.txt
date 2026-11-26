@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@13.141.36.127:443?security=reality&type=tcp&packetEncoding=xudp&sni=079b6et.ee5.h1clayd.shop&fp=firefox&sid=35a329a23bb50d2b&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&encryption=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@314fbcg.ee5.h1clayd.shop:443?security=reality&type=grpc&mode=gun&serviceName=9e16c22000f6&packetEncoding=xudp&sni=314fbcg.ee5.h1clayd.shop&fp=firefox&sid=55c396924697994f&pbk=wQ0i9JDLOmAnh1Xfo-n_QqSu1hyuqHtTcy--DGgqtzA&encryption=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@94.159.98.82:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=94.159.98.82#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
