@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ==@tr.subscriptionservice.ir:2089#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@188.114.98.0:443?path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%2210-20%22%2C%22delay%22%3A%2210-20%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%221-3%22%2C%22delay%22%3A%225%22%7D%7D%5D%7D&insecure=0&host=sinavm3.soft10.ir&fp=unsafe&type=ws&allowInsecure=0&sni=sinavm3.soft10.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkey-ip1.mmdaqaorg.xyz#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@188.114.98.0:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http%2F1.1&fp=unsafe&sni=sinavm3.soft10.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?sni=turkey-ip1.mmdaqaorg.xyz&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
