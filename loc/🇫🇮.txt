@@ -3,5 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.77.231:443?security=reality&encryption=none&pbk=PMtmgfkxpREXi51S_EUUi3KbYauQLjGD6c_llKRk8H4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=cc85fc7134024405#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?encryption=none&type=ws&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=ifi1.modemjibi.com.#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ifi1.modemjibi.com.#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.77.231:443?security=reality&encryption=none&pbk=PMtmgfkxpREXi51S_EUUi3KbYauQLjGD6c_llKRk8H4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=cc85fc7134024405#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?security=reality&encryption=none&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.yandex.ru&sid=8debcf36f1cc69ff#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
