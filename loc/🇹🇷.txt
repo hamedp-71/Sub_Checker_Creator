@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vmess://eyJhZGQiOiJJci53YnpvLmlyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI3ZTNlOGFmLWQxY2EtNDVkYS1hOTVmLThiOWFkNzczOThiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA3MCIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhbHBuIjoiIiwiZnAiOiIifQ
