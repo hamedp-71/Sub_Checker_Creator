@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?sni=dry-snowflake-b29f.vpnetwork3567.workers.dev&type=ws&path=%2F&alpn=http%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
+trojan://c48qMRRfLJ3kwD4P_XpgfIq6@3x-sub.linzhonghong.com:443?sni=3x-sub.linzhonghong.com&allowInsecure=1&type=ws&path=%2Ftjbbb7eab89c9a#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://c48qMRRfLJ3kwD4P_XpgfIq6@3x-sub.linzhonghong.com:443?allowInsecure=1&path=%2Ftjbbb7eab89c9a&security=tls&sni=3x-sub.linzhonghong.com&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
